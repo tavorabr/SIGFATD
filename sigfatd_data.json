@@ -1,0 +1,5101 @@
+{
+  "militares": [
+    {
+      "id": 1,
+      "idtMilitar": "050.811.657-1",
+      "nomeGuerra": "TAVORA",
+      "nomeCompleto": "LUCAS TAVORA DOS SANTOS",
+      "postoGraduacao": "3º Sgt"
+    },
+    {
+      "id": 2,
+      "idtMilitar": "0510429178",
+      "nomeGuerra": "FERREIRA",
+      "nomeCompleto": "LUAN APARECIDO DO NASCIMENTO FERREIRA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 3,
+      "idtMilitar": "0512058678",
+      "nomeGuerra": "KAMBARA",
+      "nomeCompleto": "RAPHAEL KENJI ALEIXO KAMBARA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 4,
+      "idtMilitar": "0512059973",
+      "nomeGuerra": "LUIZ FELIPE",
+      "nomeCompleto": "LUIZ FELIPE CORREIA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 5,
+      "idtMilitar": "0513186676",
+      "nomeGuerra": "LUIS GUSTAVO",
+      "nomeCompleto": "LUIS GUSTAVO PAGNI CORDEIRO",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 6,
+      "idtMilitar": "0513600072",
+      "nomeGuerra": "PIONTKIEVICZ",
+      "nomeCompleto": "ANDERSON PIONTKIEVICZ",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 7,
+      "idtMilitar": "0509386975",
+      "nomeGuerra": "SAMPAIO",
+      "nomeCompleto": "LUAN MAURICIO SAMPAIO MENDONCA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 8,
+      "idtMilitar": "0510427776",
+      "nomeGuerra": "CARVALHO",
+      "nomeCompleto": "WILLIAN FELIPE CARVALHO DA SILVA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 9,
+      "idtMilitar": "0511766875",
+      "nomeGuerra": "CASTRO",
+      "nomeCompleto": "WESLEY RAFAEL CASTRO DA SILVA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 10,
+      "idtMilitar": "0512058579",
+      "nomeGuerra": "TRENTIN",
+      "nomeCompleto": "RENATO COLACO TRENTIN",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 11,
+      "idtMilitar": "0512783879",
+      "nomeGuerra": "DOS SANTOS",
+      "nomeCompleto": "FELIPE LOPES DOS SANTOS",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 12,
+      "idtMilitar": "0513596171",
+      "nomeGuerra": "RAMOS",
+      "nomeCompleto": "THIAGO RAMOS DE ALMEIDA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 13,
+      "idtMilitar": "0513598771",
+      "nomeGuerra": "D LIMA",
+      "nomeCompleto": "ANDRE VICTOR DOS SANTOS LIMA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 14,
+      "idtMilitar": "0514682871",
+      "nomeGuerra": "CARVALHO",
+      "nomeCompleto": "JONAS SATELIS DE CARVALHO",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 15,
+      "idtMilitar": "0509567871",
+      "nomeGuerra": "STECHECHEN",
+      "nomeCompleto": "CARLOS GABRIEL STECHECHEN DA CRUZ",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 16,
+      "idtMilitar": "0510431778",
+      "nomeGuerra": "MACEDO",
+      "nomeCompleto": "HIAGO HENRIQUE MACEDO SILVA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 17,
+      "idtMilitar": "0510559677",
+      "nomeGuerra": "ANDRE",
+      "nomeCompleto": "ANDRE FRANCISCO DE SOUZA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 18,
+      "idtMilitar": "0512062472",
+      "nomeGuerra": "RUIVO",
+      "nomeCompleto": "GUSTAVO RUIVO DA SILVA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 19,
+      "idtMilitar": "0510422470",
+      "nomeGuerra": "G OLIVEIRA",
+      "nomeCompleto": "GUSTAVO HENRIQUE DE OLIVEIRA DE SOUZA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 20,
+      "idtMilitar": "0510548779",
+      "nomeGuerra": "GUILHERME",
+      "nomeCompleto": "GUILHERME GOMES DE SOUZA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 21,
+      "idtMilitar": "0510553373",
+      "nomeGuerra": "BERNARDO",
+      "nomeCompleto": "TIAGO BERNARDO FERNANDES",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 22,
+      "idtMilitar": "0511778276",
+      "nomeGuerra": "TRIERWALLER",
+      "nomeCompleto": "JOAO PAULO TRIERWALLER",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 23,
+      "idtMilitar": "0512778978",
+      "nomeGuerra": "BALCANELLI",
+      "nomeCompleto": "VINICIUS BALCANELLI CANTANHEDE",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 24,
+      "idtMilitar": "0514285477",
+      "nomeGuerra": "SCHEWINSKI",
+      "nomeCompleto": "ALEXANDRE SCHEWINSKI DE SOUSA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 25,
+      "idtMilitar": "0514535871",
+      "nomeGuerra": "STRUJAK",
+      "nomeCompleto": "VICTOR MOREIRA STRUJAK",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 26,
+      "idtMilitar": "0508119674",
+      "nomeGuerra": "PRINCIVAL",
+      "nomeCompleto": "HEYDRYAN MATHEUS PRINCIVAL",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 27,
+      "idtMilitar": "0508120375",
+      "nomeGuerra": "GUNTHER",
+      "nomeCompleto": "GUNTHER FELIX KELLER",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 28,
+      "idtMilitar": "0509108874",
+      "nomeGuerra": "NASCIMENTO",
+      "nomeCompleto": "RIVALDO DO NASCIMENTO DA CRUZ",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 29,
+      "idtMilitar": "0510428873",
+      "nomeGuerra": "ANTONIO",
+      "nomeCompleto": "LUCAS ANTONIO DA SILVA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 30,
+      "idtMilitar": "0510557572",
+      "nomeGuerra": "AMORIM",
+      "nomeCompleto": "IVAN JUNIOR HOFFMANN DE AMORIM",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 31,
+      "idtMilitar": "0512059072",
+      "nomeGuerra": "PEDRO BREIS",
+      "nomeCompleto": "PEDRO BREIS WIEST",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 32,
+      "idtMilitar": "0512064072",
+      "nomeGuerra": "FABIO LIMA",
+      "nomeCompleto": "FABIO GABRIEL LIMA PORTES",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 33,
+      "idtMilitar": "0513594978",
+      "nomeGuerra": "VENANCIO",
+      "nomeCompleto": "THOMAS BRYAN VENANCIO VIEIRA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 34,
+      "idtMilitar": "0513603472",
+      "nomeGuerra": "BULLESSICH",
+      "nomeCompleto": "MATHEUS BULLESSICH",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 35,
+      "idtMilitar": "0510424674",
+      "nomeGuerra": "AVELINO",
+      "nomeCompleto": "NATHAN AVELINO ROCHA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 36,
+      "idtMilitar": "0511771271",
+      "nomeGuerra": "FRANCO",
+      "nomeCompleto": "FELIPE FRANCO CARDOSO",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 37,
+      "idtMilitar": "0511778474",
+      "nomeGuerra": "ENDRIKY",
+      "nomeCompleto": "ENDRIKY FELIPE DOS SANTOS",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 38,
+      "idtMilitar": "0512059379",
+      "nomeGuerra": "GAMA",
+      "nomeCompleto": "MATHEUS VITOR GAMA GOMES",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 39,
+      "idtMilitar": "0512059874",
+      "nomeGuerra": "LUIZ",
+      "nomeCompleto": "LUIZ HENRIQUE FERREIRA MORAIS",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 40,
+      "idtMilitar": "0512066770",
+      "nomeGuerra": "SANTIN",
+      "nomeCompleto": "ALEXSANDER CESAR SANTIN",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 41,
+      "idtMilitar": "0508992476",
+      "nomeGuerra": "JANUARIO",
+      "nomeCompleto": "DANIEL JANUARIO PEDRO",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 42,
+      "idtMilitar": "0509383972",
+      "nomeGuerra": "YAN",
+      "nomeCompleto": "YAN VINICIUS GOMES",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 43,
+      "idtMilitar": "0509387676",
+      "nomeGuerra": "J VIEIRA",
+      "nomeCompleto": "JONATAS VIEIRA DA COSTA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 44,
+      "idtMilitar": "0510432677",
+      "nomeGuerra": "INGLES",
+      "nomeCompleto": "GUILHERME INGLES FLORENTINO",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 45,
+      "idtMilitar": "0510814270",
+      "nomeGuerra": "JHONATAN",
+      "nomeCompleto": "JONAS JHONATAN DOS SANTOS",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 46,
+      "idtMilitar": "0512058272",
+      "nomeGuerra": "ONORATO",
+      "nomeCompleto": "ROGERIO ONORATO FILHO",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 47,
+      "idtMilitar": "0513896977",
+      "nomeGuerra": "TONIN",
+      "nomeCompleto": "MATHEUS FERREIRA TONIN",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 48,
+      "idtMilitar": "0514682970",
+      "nomeGuerra": "GIOVANNI",
+      "nomeCompleto": "WILLIAN GIOVANNI COSTA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 49,
+      "idtMilitar": "0511767774",
+      "nomeGuerra": "RAUL",
+      "nomeCompleto": "RAUL RICARDO DE SOUZA MOURA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 50,
+      "idtMilitar": "0512783275",
+      "nomeGuerra": "LAUREANO",
+      "nomeCompleto": "GUILHERME MELO LAUREANO",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 51,
+      "idtMilitar": "0513597278",
+      "nomeGuerra": "WELLINGTON",
+      "nomeCompleto": "WELLINGTON VINICIUS PEREIRA DOS SANTOS",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 52,
+      "idtMilitar": "0513599175",
+      "nomeGuerra": "BRENDON",
+      "nomeCompleto": "BRENDON DE AGUIAR SOARES",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 53,
+      "idtMilitar": "0514279074",
+      "nomeGuerra": "KIEL",
+      "nomeCompleto": "JOAO GABRIEL ANDRADE KIEL",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 54,
+      "idtMilitar": "0508114071",
+      "nomeGuerra": "OZEIAS",
+      "nomeCompleto": "OZEIAS BATISTA JUNIOR",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 55,
+      "idtMilitar": "0508118270",
+      "nomeGuerra": "IZAIAS",
+      "nomeCompleto": "JONATHAN CRISTIAN IZAIAS DOS SANTOS",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 56,
+      "idtMilitar": "0510424971",
+      "nomeGuerra": "BRAGA",
+      "nomeCompleto": "MOISES FERREIRA BRAGA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 57,
+      "idtMilitar": "0510433279",
+      "nomeGuerra": "PADILHA",
+      "nomeCompleto": "FERNANDO RODRIGO PADILHA DE OLIVEIRA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 58,
+      "idtMilitar": "0510433873",
+      "nomeGuerra": "NATAL",
+      "nomeCompleto": "EDSON NATAL FERREIRA PAULA SILVA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 59,
+      "idtMilitar": "0512785270",
+      "nomeGuerra": "M ARAUJO",
+      "nomeCompleto": "CAUAN MATHEUS DE ARAUJO",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 60,
+      "idtMilitar": "0513714279",
+      "nomeGuerra": "NIGRIS",
+      "nomeCompleto": "CASSIEL DE NIGRIS",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 61,
+      "idtMilitar": "0514538974",
+      "nomeGuerra": "KATHRYAN",
+      "nomeCompleto": "KATHRYAN THALLUAN DOS SANTOS FARIAS",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 62,
+      "idtMilitar": "0510551773",
+      "nomeGuerra": "MOREIRA",
+      "nomeCompleto": "IZAIAS MOREIRA NETO",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 63,
+      "idtMilitar": "0513607879",
+      "nomeGuerra": "ANHAIA",
+      "nomeCompleto": "GABRIEL DIAS ANHAIA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 64,
+      "idtMilitar": "0508501079",
+      "nomeGuerra": "CRUZ",
+      "nomeCompleto": "BRUNO DA CRUZ",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 65,
+      "idtMilitar": "0510556772",
+      "nomeGuerra": "HATTENHAUER",
+      "nomeCompleto": "JUAN PEDRO HATTENHAUER",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 66,
+      "idtMilitar": "0512056979",
+      "nomeGuerra": "PIRES",
+      "nomeCompleto": "WALACE HENRIQUE PIRES",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 67,
+      "idtMilitar": "0512783978",
+      "nomeGuerra": "EMILIO",
+      "nomeCompleto": "EMILIO BATISTA NETO",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 68,
+      "idtMilitar": "0510426570",
+      "nomeGuerra": "M CORDEIRO",
+      "nomeCompleto": "MATEUS CORDEIRO",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 69,
+      "idtMilitar": "0510557275",
+      "nomeGuerra": "MAFRA",
+      "nomeCompleto": "JOAO CARLOS CARVALHO MAFRA JUNIOR",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 70,
+      "idtMilitar": "0512311770",
+      "nomeGuerra": "MUNIZ",
+      "nomeCompleto": "EMANUEL MUNIZ",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 71,
+      "idtMilitar": "0508992674",
+      "nomeGuerra": "JOAZ",
+      "nomeCompleto": "JOAZ VITOR DA SILVA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 72,
+      "idtMilitar": "0510432776",
+      "nomeGuerra": "SENETRA",
+      "nomeCompleto": "GUILHERME AUGUSTO SENETRA DOS SANTOS",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 73,
+      "idtMilitar": "0512063470",
+      "nomeGuerra": "FERREIRA",
+      "nomeCompleto": "GABRIEL FERNANDO FERREIRA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 74,
+      "idtMilitar": "0514281971",
+      "nomeGuerra": "BENTO",
+      "nomeCompleto": "SAMUEL ANDRE BENTO",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 75,
+      "idtMilitar": "0510426273",
+      "nomeGuerra": "BAYER",
+      "nomeCompleto": "MATHEUS BAYER SILVA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 76,
+      "idtMilitar": "0514538370",
+      "nomeGuerra": "CORDEIRO",
+      "nomeCompleto": "JOAO VITOR CORDEIRO",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 77,
+      "idtMilitar": "0508873270",
+      "nomeGuerra": "MEIRA",
+      "nomeCompleto": "THIAGO FERREIRA MEIRA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 78,
+      "idtMilitar": "0512062175",
+      "nomeGuerra": "DE ANDRADE",
+      "nomeCompleto": "ISAAK MATHEUS DE ANDRADE",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 79,
+      "idtMilitar": "0510816275",
+      "nomeGuerra": "ATILA",
+      "nomeCompleto": "JOAO ATILA DE PAIVA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 80,
+      "idtMilitar": "0510836372",
+      "nomeGuerra": "PAGNI",
+      "nomeCompleto": "CESAR AUGUSTO PAGNI CORDEIRO",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 81,
+      "idtMilitar": "0511778078",
+      "nomeGuerra": "ADRIEL",
+      "nomeCompleto": "ADRIEL CORDEIRO DE MORAIS",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 82,
+      "idtMilitar": "0308251370",
+      "nomeGuerra": "ORTIZ",
+      "nomeCompleto": "RHUAN SALGUEIRO ORTIZ",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 83,
+      "idtMilitar": "0508119179",
+      "nomeGuerra": "J. CARVALHO",
+      "nomeCompleto": "JEFERSON SOARES CARVALHO",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 84,
+      "idtMilitar": "0510422371",
+      "nomeGuerra": "RONDINELLY",
+      "nomeCompleto": "RONDINELLY DE FRANCA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 85,
+      "idtMilitar": "0506115377",
+      "nomeGuerra": "MORAES",
+      "nomeCompleto": "LUCAS FELIPE RAMOS MORAES",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 86,
+      "idtMilitar": "0507491975",
+      "nomeGuerra": "DELFINO",
+      "nomeCompleto": "LUCAS DE GOES DELFINO",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 87,
+      "idtMilitar": "0510799679",
+      "nomeGuerra": "KADLUBINSKI",
+      "nomeCompleto": "RHAIAN DA SILVA KADLUBINSKI",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 88,
+      "idtMilitar": "0510811672",
+      "nomeGuerra": "DA LAPA",
+      "nomeCompleto": "MARCOS VINICIUS DA LAPA LOURENCO",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 89,
+      "idtMilitar": "0511778375",
+      "nomeGuerra": "MARTINEZ",
+      "nomeCompleto": "RUDINEI MACHADO MARTINEZ",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 90,
+      "idtMilitar": "0512056771",
+      "nomeGuerra": "WENDELL",
+      "nomeCompleto": "WENDELL CARLOS BARBOSA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 91,
+      "idtMilitar": "0512494576",
+      "nomeGuerra": "TORRES",
+      "nomeCompleto": "DAVI CESAR PIROZZI TORRES",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 92,
+      "idtMilitar": "0512784877",
+      "nomeGuerra": "MONTEIRO",
+      "nomeCompleto": "DANIEL MONTEIRO",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 93,
+      "idtMilitar": "0513605378",
+      "nomeGuerra": "BOMFIM",
+      "nomeCompleto": "JEAN BOMFIM DA CRUZ",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 94,
+      "idtMilitar": "0513712372",
+      "nomeGuerra": "MOURA",
+      "nomeCompleto": "JOSE VITOR DE MOURA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 95,
+      "idtMilitar": "0513896571",
+      "nomeGuerra": "FELIX",
+      "nomeCompleto": "JOSIEL FELIX BATISTA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 96,
+      "idtMilitar": "0514683077",
+      "nomeGuerra": "DIEGO",
+      "nomeCompleto": "EVERTON DIEGO DA SILVA",
+      "postoGraduacao": "Cb"
+    },
+    {
+      "id": 97,
+      "idtMilitar": "051.371.497-2",
+      "nomeGuerra": "A SIQUEIRA",
+      "nomeCompleto": "ALEXANDRE VENANCIO SIQUEIRA",
+      "postoGraduacao": "Sd EP"
+    },
+    {
+      "id": 98,
+      "idtMilitar": "0514540673",
+      "nomeGuerra": "GUNTHER",
+      "nomeCompleto": "VICTOR GABRIEL GOMES GUNTHER",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 99,
+      "idtMilitar": "0508108974",
+      "nomeGuerra": "FONTOURA",
+      "nomeCompleto": "DANIEL HENRIQUE FONTOURA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 100,
+      "idtMilitar": "0513711077",
+      "nomeGuerra": "JONNES",
+      "nomeCompleto": "RICK JONNES FARIA ALVES",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 101,
+      "idtMilitar": "0513711176",
+      "nomeGuerra": "RAFAEL ALVES",
+      "nomeCompleto": "RAFAEL OTT ALVES",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 102,
+      "idtMilitar": "0513717371",
+      "nomeGuerra": "CANDIDO",
+      "nomeCompleto": "EDUARDO HENRIQUE DE SOUZA CANDIDO",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 103,
+      "idtMilitar": "0514277078",
+      "nomeGuerra": "DAYVID",
+      "nomeCompleto": "DAYVID RENAN GARCIA DE SOUZA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 104,
+      "idtMilitar": "0510429772",
+      "nomeGuerra": "SIQUEIRA",
+      "nomeCompleto": "LUIZ GUSTAVO SIQUEIRA FRANCISCO",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 105,
+      "idtMilitar": "0514277573",
+      "nomeGuerra": "ELIABE",
+      "nomeCompleto": "ELIABE CRISTIAN RIBAS",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 106,
+      "idtMilitar": "0514534270",
+      "nomeGuerra": "JULIAO",
+      "nomeCompleto": "DANIEL FABIANO JULIAO ABILSKI",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 107,
+      "idtMilitar": "0512065871",
+      "nomeGuerra": "PIMENTA",
+      "nomeCompleto": "BRENO HENRIQUE DA SILVA PIMENTA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 108,
+      "idtMilitar": "0514281575",
+      "nomeGuerra": "AMANCIO",
+      "nomeCompleto": "ISAIAS ALBINO AMANCIO NETO",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 109,
+      "idtMilitar": "0509565479",
+      "nomeGuerra": "COPATI",
+      "nomeCompleto": "HIGOR FILIPE COPATI",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 110,
+      "idtMilitar": "0511770976",
+      "nomeGuerra": "DE OLIVEIRA",
+      "nomeCompleto": "GUSTAVO HENRIQUE MAIA DE OLIVEIRA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 111,
+      "idtMilitar": "0513601476",
+      "nomeGuerra": "OLIVEIRA",
+      "nomeCompleto": "PATRICK WAGNER OLIVEIRA DOS SANTOS",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 112,
+      "idtMilitar": "0514280072",
+      "nomeGuerra": "GUEDES",
+      "nomeCompleto": "CARLOS HENRIQUE MARTINS GUEDES",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 113,
+      "idtMilitar": "0514283977",
+      "nomeGuerra": "IGOR",
+      "nomeCompleto": "IGOR GABRIEL LEONEL DA COSTA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 114,
+      "idtMilitar": "0514540772",
+      "nomeGuerra": "JOSE MARIA",
+      "nomeCompleto": "FERNANDO JOSE MARIA FILHO",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 115,
+      "idtMilitar": "0512494972",
+      "nomeGuerra": "ALEXANDER",
+      "nomeCompleto": "ALEXANDER JUNIOR JESUS DOS REIS",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 116,
+      "idtMilitar": "0513599076",
+      "nomeGuerra": "TELMAN",
+      "nomeCompleto": "BERNARDO TELMAN GONCALVES",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 117,
+      "idtMilitar": "0513606376",
+      "nomeGuerra": "FRIEDRICHSEN",
+      "nomeCompleto": "ISAC FRIEDRICHSEN",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 118,
+      "idtMilitar": "0514255777",
+      "nomeGuerra": "BUASQUEVICZ",
+      "nomeCompleto": "GABRIEL VINICIUS BUASQUEVICZ",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 119,
+      "idtMilitar": "0514257674",
+      "nomeGuerra": "WAGNER",
+      "nomeCompleto": "WAGNER DA SILVA FILHO",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 120,
+      "idtMilitar": "0514281674",
+      "nomeGuerra": "SILVA",
+      "nomeCompleto": "MATHEUS OLIVEIRA DA SILVA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 121,
+      "idtMilitar": "0514284470",
+      "nomeGuerra": "PEDRO",
+      "nomeCompleto": "PEDRO HENRIQUE DOS SANTOS DE SOUZA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 122,
+      "idtMilitar": "0514537174",
+      "nomeGuerra": "BRITES",
+      "nomeCompleto": "MARCELO BRITES GOMES",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 123,
+      "idtMilitar": "0514541176",
+      "nomeGuerra": "EMANUEL GOMES",
+      "nomeCompleto": "EMANUEL GOMES DOS SANTOS",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 124,
+      "idtMilitar": "0514541671",
+      "nomeGuerra": "DANTAS",
+      "nomeCompleto": "ALERRANDRO DANTAS",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 125,
+      "idtMilitar": "0508499472",
+      "nomeGuerra": "OTAVIO",
+      "nomeCompleto": "LUIZ OTAVIO RIBEIRO DA SILVA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 126,
+      "idtMilitar": "0509565974",
+      "nomeGuerra": "SOARES",
+      "nomeCompleto": "GABRIEL DA CONCEICAO SOARES",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 127,
+      "idtMilitar": "0510422579",
+      "nomeGuerra": "JORGE",
+      "nomeCompleto": "JORGE LUCAS SANTOS TEIXEIRA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 128,
+      "idtMilitar": "0512057472",
+      "nomeGuerra": "GARCIA",
+      "nomeCompleto": "VINICIUS GARCIA DA SILVA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 129,
+      "idtMilitar": "0513598375",
+      "nomeGuerra": "BALOCK",
+      "nomeCompleto": "LUCAS DA SILVA BALOCK",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 130,
+      "idtMilitar": "0513603076",
+      "nomeGuerra": "CARNEIRO",
+      "nomeCompleto": "JOAO VICTOR CARNEIRO",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 131,
+      "idtMilitar": "0513605972",
+      "nomeGuerra": "ROTT",
+      "nomeCompleto": "RAFAEL ROTT ELLING",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 132,
+      "idtMilitar": "0513716878",
+      "nomeGuerra": "CRAMER",
+      "nomeCompleto": "GABRIEL VINICIUS CRAMER DE MORAES",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 133,
+      "idtMilitar": "0514284975",
+      "nomeGuerra": "RODRIGUES",
+      "nomeCompleto": "GABRIEL RODRIGUES DE OLIVEIRA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 134,
+      "idtMilitar": "0514534577",
+      "nomeGuerra": "V CAMPOS",
+      "nomeCompleto": "VINICIUS EDUARDO ALVES DE CAMPOS",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 135,
+      "idtMilitar": "0511768178",
+      "nomeGuerra": "DE ALMEIDA",
+      "nomeCompleto": "MATHEUS VINICIUS DE ALMEIDA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 136,
+      "idtMilitar": "0512064478",
+      "nomeGuerra": "SCHORNER",
+      "nomeCompleto": "EDUARDO SCHORNER",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 137,
+      "idtMilitar": "0513601773",
+      "nomeGuerra": "BARBOSA",
+      "nomeCompleto": "PEDRO HENRIQUE DE FREITAS BARBOSA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 138,
+      "idtMilitar": "0514256072",
+      "nomeGuerra": "RAIMUNDO",
+      "nomeCompleto": "JOSE RAIMUNDO GOMES PINHEIRO",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 139,
+      "idtMilitar": "0514276377",
+      "nomeGuerra": "KEVIN SILVA",
+      "nomeCompleto": "KEVIN SILVA FERNANDES",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 140,
+      "idtMilitar": "0514282870",
+      "nomeGuerra": "RANO",
+      "nomeCompleto": "LUIZ HENRIQUE RANO DOS SANTOS",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 141,
+      "idtMilitar": "0514532878",
+      "nomeGuerra": "LUCAS MACEDO",
+      "nomeCompleto": "ADRYAN LUCAS MACEDO OLIVEIRA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 142,
+      "idtMilitar": "0509564175",
+      "nomeGuerra": "FERNANDES",
+      "nomeCompleto": "MATEUS HENRIQUE FERNANDES DOS SANTOS",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 143,
+      "idtMilitar": "0510558570",
+      "nomeGuerra": "WIEDERMANN",
+      "nomeCompleto": "GABRIEL AUGUSTO STRESSER WIEDERMANN",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 144,
+      "idtMilitar": "0510835275",
+      "nomeGuerra": "ZBRONSKI",
+      "nomeCompleto": "FABIO ZBRONSKI VAZ",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 145,
+      "idtMilitar": "0512057670",
+      "nomeGuerra": "WILIAN",
+      "nomeCompleto": "VICTOR WILIAN DA SILVA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 146,
+      "idtMilitar": "0512061672",
+      "nomeGuerra": "JO�O LUCAS",
+      "nomeCompleto": "JOAO LUCAS DA SILVA PADILHA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 147,
+      "idtMilitar": "0512493875",
+      "nomeGuerra": "JHONNY",
+      "nomeCompleto": "JHONNY MARCIO SILVA DA ROSA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 148,
+      "idtMilitar": "0513600478",
+      "nomeGuerra": "RYAN",
+      "nomeCompleto": "RYAN DE SOUZA MELO DE ARAUJO",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 149,
+      "idtMilitar": "0513603571",
+      "nomeGuerra": "WESCHENFELDER",
+      "nomeCompleto": "MAXSUEL WESCHENFELDER",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 150,
+      "idtMilitar": "0513607572",
+      "nomeGuerra": "FERRAZ",
+      "nomeCompleto": "GABRIEL FELIPE DOS SANTOS FERRAZ",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 151,
+      "idtMilitar": "0513713974",
+      "nomeGuerra": "MAZUR",
+      "nomeCompleto": "GABRIEL MAZUR",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 152,
+      "idtMilitar": "0514256478",
+      "nomeGuerra": "SCHIMURE",
+      "nomeCompleto": "NATHAN SCHIMURE",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 153,
+      "idtMilitar": "0514256973",
+      "nomeGuerra": "RITTER",
+      "nomeCompleto": "KESLEY GABRIEL RITTER DE LIMA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 154,
+      "idtMilitar": "0510555774",
+      "nomeGuerra": "MARCIO",
+      "nomeCompleto": "MARCIO EDUARDO DE SOUZA PEREIRA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 155,
+      "idtMilitar": "0510835572",
+      "nomeGuerra": "MARCONDES",
+      "nomeCompleto": "ELTON HENRIQUE MARCONDES DE CARVALHO",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 156,
+      "idtMilitar": "0512065277",
+      "nomeGuerra": "CAUAN GABRIEL",
+      "nomeCompleto": "CAUAN GABRIEL DE ALMEIDA PEREIRA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 157,
+      "idtMilitar": "0513594879",
+      "nomeGuerra": "GOMES",
+      "nomeCompleto": "CAIO MATHEUS GOMES DE LIMA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 158,
+      "idtMilitar": "0513601179",
+      "nomeGuerra": "TIMOTEO",
+      "nomeCompleto": "MATHEUS PADILHA TIMOTEO",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 159,
+      "idtMilitar": "0514281179",
+      "nomeGuerra": "MAINARDES",
+      "nomeCompleto": "DAVID MAINARDES FONTES DA SILVA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 160,
+      "idtMilitar": "0514539774",
+      "nomeGuerra": "SOLEDADE",
+      "nomeCompleto": "DANIEL DA SOLEDADE PEREIRA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 161,
+      "idtMilitar": "0512060179",
+      "nomeGuerra": "CAIADO",
+      "nomeCompleto": "LUCAS CAIADO OLIVEIRA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 162,
+      "idtMilitar": "0514255678",
+      "nomeGuerra": "ORSI",
+      "nomeCompleto": "GUSTAVO ORSI",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 163,
+      "idtMilitar": "0514280874",
+      "nomeGuerra": "SIRINO",
+      "nomeCompleto": "MATHEUS VINICIUS SIRINO DA SILVA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 164,
+      "idtMilitar": "0514535970",
+      "nomeGuerra": "FRACARO",
+      "nomeCompleto": "GABRIEL HENRIQUE FRACARO",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 165,
+      "idtMilitar": "0509383071",
+      "nomeGuerra": "GABRIEL",
+      "nomeCompleto": "WILLIAN GABRIEL GARBELOTTO",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 166,
+      "idtMilitar": "0511766271",
+      "nomeGuerra": "FELIPE JUNIOR",
+      "nomeCompleto": "FELIPE MACHADO JUNIOR",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 167,
+      "idtMilitar": "0512060278",
+      "nomeGuerra": "BIRON",
+      "nomeCompleto": "LUCAS BATISTA BIRON",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 168,
+      "idtMilitar": "0513601575",
+      "nomeGuerra": "PAULO",
+      "nomeCompleto": "VITOR GABRIEL SOUZA DE PAULO",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 169,
+      "idtMilitar": "0514285071",
+      "nomeGuerra": "MURILO",
+      "nomeCompleto": "MURILO DIAS GOUVEA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 170,
+      "idtMilitar": "0514533876",
+      "nomeGuerra": "MESSIAS",
+      "nomeCompleto": "MESSIAS EDUARDO RIBEIRO TOMCZYK",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 171,
+      "idtMilitar": "0514540574",
+      "nomeGuerra": "RODRIGUES",
+      "nomeCompleto": "VINICIUS RODRIGUES DE FRANCA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 172,
+      "idtMilitar": "0510550874",
+      "nomeGuerra": "RAMOS",
+      "nomeCompleto": "LUCAS DA SILVA RAMOS",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 173,
+      "idtMilitar": "0514277870",
+      "nomeGuerra": "ALEXANDRE",
+      "nomeCompleto": "OTAVIO ALEXANDRE FREITAS DE OLIVEIRA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 174,
+      "idtMilitar": "0514278670",
+      "nomeGuerra": "HENRIQUE",
+      "nomeCompleto": "HENRIQUE NASCIMENTO MOURA SILVA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 175,
+      "idtMilitar": "0514281070",
+      "nomeGuerra": "CARDOSO",
+      "nomeCompleto": "MATEUS CARDOSO LUIZ",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 176,
+      "idtMilitar": "0514282078",
+      "nomeGuerra": "ALEJANDRO",
+      "nomeCompleto": "ALEJANDRO ANTUNES DA SILVA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 177,
+      "idtMilitar": "0514536473",
+      "nomeGuerra": "BATEL",
+      "nomeCompleto": "LEONARDO BATEL",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 178,
+      "idtMilitar": "0514536572",
+      "nomeGuerra": "NASCIMENTO",
+      "nomeCompleto": "EDICLEISON DO NASCIMENTO",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 179,
+      "idtMilitar": "0509388476",
+      "nomeGuerra": "ESSER",
+      "nomeCompleto": "EMERSON ESSER JUNIOR",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 180,
+      "idtMilitar": "0511770877",
+      "nomeGuerra": "PACHECO",
+      "nomeCompleto": "GUSTAVO PACHECO FERNANDES",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 181,
+      "idtMilitar": "0513603779",
+      "nomeGuerra": "MALTA",
+      "nomeCompleto": "MARCELO SILVA MALTA FILHO",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 182,
+      "idtMilitar": "0513717777",
+      "nomeGuerra": "DANIEL",
+      "nomeCompleto": "DANIEL CEZAR DO AMARAL",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 183,
+      "idtMilitar": "0514535178",
+      "nomeGuerra": "D CAETANO",
+      "nomeCompleto": "LEONARDO DANIEL CAETANO",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 184,
+      "idtMilitar": "0514536978",
+      "nomeGuerra": "LINHARES",
+      "nomeCompleto": "ENZO RHUAN LINHARES COSTA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 185,
+      "idtMilitar": "0514538677",
+      "nomeGuerra": "GLOSS",
+      "nomeCompleto": "KAIQUE GLOSS SAAD PINTO",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 186,
+      "idtMilitar": "0514542174",
+      "nomeGuerra": "SACRAMENTO",
+      "nomeCompleto": "EMANUEL DOS REIS SOARES DO SACRAMENTO",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 187,
+      "idtMilitar": "0506421072",
+      "nomeGuerra": "ELLYHA",
+      "nomeCompleto": "ELLYH� VAZ CORREIA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 188,
+      "idtMilitar": "0508328879",
+      "nomeGuerra": "GUSE",
+      "nomeCompleto": "GLADEMIR MATTEUS GUSE",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 189,
+      "idtMilitar": "0513602375",
+      "nomeGuerra": "T SANTOS",
+      "nomeCompleto": "WELLISON THIAGO SANTOS DOS SANTOS",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 190,
+      "idtMilitar": "0514278571",
+      "nomeGuerra": "SOARES FERREIRA",
+      "nomeCompleto": "GUSTAVO SOARES FERREIRA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 191,
+      "idtMilitar": "0514534775",
+      "nomeGuerra": "NARCIZO",
+      "nomeCompleto": "LUCAS HENRIQUE NARCIZO",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 192,
+      "idtMilitar": "0510552870",
+      "nomeGuerra": "LIZ",
+      "nomeCompleto": "YEGO ERIN RODRIGUES DE LIZ",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 193,
+      "idtMilitar": "0512782673",
+      "nomeGuerra": "FELIPE LIMA",
+      "nomeCompleto": "IAN FELIPE DE LIMA MARTINS",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 194,
+      "idtMilitar": "0513596775",
+      "nomeGuerra": "MAIA",
+      "nomeCompleto": "VICTOR GABRIEL MAIA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 195,
+      "idtMilitar": "0513602474",
+      "nomeGuerra": "NYSTRON",
+      "nomeCompleto": "SAMIR NYSTRON RORIZ BATISTA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 196,
+      "idtMilitar": "0514256874",
+      "nomeGuerra": "GRUNHAGEN",
+      "nomeCompleto": "VITOR HENRIQUE VAZ VIEIRA GRUNHAGEN",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 197,
+      "idtMilitar": "0514278878",
+      "nomeGuerra": "NICOLAS",
+      "nomeCompleto": "NICOLAS GONCALVES DE SOUZA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 198,
+      "idtMilitar": "0514282771",
+      "nomeGuerra": "REGIS",
+      "nomeCompleto": "REGIS GUILHERME ANTUNES DE OLIVEIRA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 199,
+      "idtMilitar": "0514284678",
+      "nomeGuerra": "FABRICIO",
+      "nomeCompleto": "ERICK FABRICIO DO NASCIMENTO",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 200,
+      "idtMilitar": "0510811177",
+      "nomeGuerra": "DALSEGIO",
+      "nomeCompleto": "MATHEUS DA SILVA DALSEGIO",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 201,
+      "idtMilitar": "0513595579",
+      "nomeGuerra": "PEREIRA",
+      "nomeCompleto": "JOAO VICTOR PEREIRA BARBOSA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 202,
+      "idtMilitar": "0513606178",
+      "nomeGuerra": "CARON",
+      "nomeCompleto": "KAUAN MATEUS GODOI CARON",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 203,
+      "idtMilitar": "0514279173",
+      "nomeGuerra": "CUPTI",
+      "nomeCompleto": "KEVIN ALEXANDER PEREIRA CUPTI",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 204,
+      "idtMilitar": "0514280577",
+      "nomeGuerra": "STEPHAN",
+      "nomeCompleto": "NICOLAS STEPHAN CORREA SAYD",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 205,
+      "idtMilitar": "0514879873",
+      "nomeGuerra": "SCHNEIDER",
+      "nomeCompleto": "CARLOS DANIEL SCHNEIDER LEAL",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 206,
+      "idtMilitar": "0515057974",
+      "nomeGuerra": "ALEX",
+      "nomeCompleto": "WILLIAN ALEX DOS SANTOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 207,
+      "idtMilitar": "0515058675",
+      "nomeGuerra": "CAVALI",
+      "nomeCompleto": "VINICIUS DE OLIVEIRA CAVALI",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 208,
+      "idtMilitar": "0515058972",
+      "nomeGuerra": "THIAGO COSTA",
+      "nomeCompleto": "THIAGO DOS SANTOS COSTA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 209,
+      "idtMilitar": "0515362473",
+      "nomeGuerra": "BRUM",
+      "nomeCompleto": "VITOR SILVA BRUM",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 210,
+      "idtMilitar": "0515362879",
+      "nomeGuerra": "KALIEL",
+      "nomeCompleto": "EDUARDO KALIEL DOS SANTOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 211,
+      "idtMilitar": "0515362978",
+      "nomeGuerra": "FASZANK",
+      "nomeCompleto": "EDNILSON FASZANK JUNIOR",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 212,
+      "idtMilitar": "0515363174",
+      "nomeGuerra": "WILLIS",
+      "nomeCompleto": "MATEUS WILLIS OLIVEIRA DA COSTA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 213,
+      "idtMilitar": "0515364776",
+      "nomeGuerra": "GUSTAVO OLIVEIRA",
+      "nomeCompleto": "GUSTAVO DE ARAUJO OLIVEIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 214,
+      "idtMilitar": "0515368975",
+      "nomeGuerra": "KAUE MELO",
+      "nomeCompleto": "KAUE MELO DOS SANTOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 215,
+      "idtMilitar": "0515369379",
+      "nomeGuerra": "LEONARDO",
+      "nomeCompleto": "LEONARDO ALVES CORDEIRO MOREIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 216,
+      "idtMilitar": "0514783570",
+      "nomeGuerra": "TIBES",
+      "nomeCompleto": "ALESSANDRO TIBES JUNIOR",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 217,
+      "idtMilitar": "0514880772",
+      "nomeGuerra": "SANTANA",
+      "nomeCompleto": "BRUNO SANTANA DE MELO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 218,
+      "idtMilitar": "0514882372",
+      "nomeGuerra": "SCOPEL",
+      "nomeCompleto": "MATHEUS PIZZATTO SCOPEL",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 219,
+      "idtMilitar": "0514856475",
+      "nomeGuerra": "REIS",
+      "nomeCompleto": "MARCOS PAULO REIS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 220,
+      "idtMilitar": "0514876077",
+      "nomeGuerra": "RESNIZEKI",
+      "nomeCompleto": "DHIOGO SLOMPO RESNIZEKI",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 221,
+      "idtMilitar": "0514836675",
+      "nomeGuerra": "LAMEU",
+      "nomeCompleto": "JOSE MATEUS LAMEU DE OLIVEIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 222,
+      "idtMilitar": "0515058071",
+      "nomeGuerra": "ROSA",
+      "nomeCompleto": "WESLEY ROSA DOS SANTOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 223,
+      "idtMilitar": "0515359578",
+      "nomeGuerra": "LUIZ SILVA",
+      "nomeCompleto": "SAMUEL LUIZ DA SILVA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 224,
+      "idtMilitar": "0515363372",
+      "nomeGuerra": "LUIZ EDUARDO",
+      "nomeCompleto": "LUIZ EDUARDO DE MELLO APARICIO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 225,
+      "idtMilitar": "0515369973",
+      "nomeGuerra": "FALCOSKI",
+      "nomeCompleto": "DANIEL FELIPE FALCOSKI",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 226,
+      "idtMilitar": "0515370476",
+      "nomeGuerra": "JACINTO",
+      "nomeCompleto": "KAUE TEIXEIRA JACINTO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 227,
+      "idtMilitar": "0514533777",
+      "nomeGuerra": "IGOR",
+      "nomeCompleto": "IGOR GUSTAVO BASEGIO DE OLIVEIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 228,
+      "idtMilitar": "0514864172",
+      "nomeGuerra": "CAMARGO",
+      "nomeCompleto": "MATHEUS HENRIQUE CAMARGO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 229,
+      "idtMilitar": "0514838671",
+      "nomeGuerra": "OLIVEIRA",
+      "nomeCompleto": "GUSTAVO SOARES DE OLIVEIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 230,
+      "idtMilitar": "0514845478",
+      "nomeGuerra": "TOMAZ",
+      "nomeCompleto": "GABRIEL LIMA TOMAZ",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 231,
+      "idtMilitar": "0515059376",
+      "nomeGuerra": "RYAN",
+      "nomeCompleto": "RYAN LUCAS FERNANDES DOS SANTOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 232,
+      "idtMilitar": "0515059673",
+      "nomeGuerra": "AGUIAR",
+      "nomeCompleto": "RUBENS DE AGUIAR NETO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 233,
+      "idtMilitar": "0515060473",
+      "nomeGuerra": "MATOS",
+      "nomeCompleto": "NELSON DE MATOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 234,
+      "idtMilitar": "0515360378",
+      "nomeGuerra": "PAIVA",
+      "nomeCompleto": "NICOLAS PAIVA RODRIGUES",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 235,
+      "idtMilitar": "0515361079",
+      "nomeGuerra": "SCHADEK",
+      "nomeCompleto": "DOUGLAS JOSE SCHADEK MARTINS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 236,
+      "idtMilitar": "0515361673",
+      "nomeGuerra": "MAICON",
+      "nomeCompleto": "MAICON DA SILVA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 237,
+      "idtMilitar": "0515362572",
+      "nomeGuerra": "VAZ",
+      "nomeCompleto": "LUIS FELIPE VAZ",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 238,
+      "idtMilitar": "0515363273",
+      "nomeGuerra": "PIMENTEL",
+      "nomeCompleto": "GABRIEL HENRIQUE PIMENTEL",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 239,
+      "idtMilitar": "0515364677",
+      "nomeGuerra": "GUIMARAES",
+      "nomeCompleto": "MIGUEL DE JESUS GUIMARAES",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 240,
+      "idtMilitar": "0515366375",
+      "nomeGuerra": "VICENTE",
+      "nomeCompleto": "VITOR VICENTE LIMA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 241,
+      "idtMilitar": "0515367076",
+      "nomeGuerra": "LIAN",
+      "nomeCompleto": "MAYK LIAN DOS SANTOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 242,
+      "idtMilitar": "0515369478",
+      "nomeGuerra": "PIRES",
+      "nomeCompleto": "EDUARDO PIRES SANT ANNA RIBEIRO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 243,
+      "idtMilitar": "0514536275",
+      "nomeGuerra": "SCHLICHTING",
+      "nomeCompleto": "MATHEUS SCHLICHTING SANTOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 244,
+      "idtMilitar": "0514852979",
+      "nomeGuerra": "PRESTES",
+      "nomeCompleto": "EDUARDO CARDOZO PRESTES",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 245,
+      "idtMilitar": "0514838473",
+      "nomeGuerra": "GUARIENTI",
+      "nomeCompleto": "HEITOR GUARIENTI ANSELMO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 246,
+      "idtMilitar": "0515360873",
+      "nomeGuerra": "ADAMOWICZ",
+      "nomeCompleto": "PEDRO HENRIQUE ADAMOWICZ GOMES DA SILVA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 247,
+      "idtMilitar": "0515361871",
+      "nomeGuerra": "ROBSON",
+      "nomeCompleto": "ROBSON GUSTAVO DE OLIVEIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 248,
+      "idtMilitar": "0515367472",
+      "nomeGuerra": "SANTOS CARDOSO",
+      "nomeCompleto": "KAUA DOS SANTOS CARDOSO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 249,
+      "idtMilitar": "0515369072",
+      "nomeGuerra": "MALTACA",
+      "nomeCompleto": "MARCELO MACIEL MALTACA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 250,
+      "idtMilitar": "0515370377",
+      "nomeGuerra": "PORTEL",
+      "nomeCompleto": "PAULO ANDRE RAMOS PORTEL",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 251,
+      "idtMilitar": "0514880871",
+      "nomeGuerra": "BRUNO",
+      "nomeCompleto": "BRUNO DOS SANTOS RODRIGUES",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 252,
+      "idtMilitar": "0514881176",
+      "nomeGuerra": "FERREIRA",
+      "nomeCompleto": "ANDRE FERREIRA MENDES",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 253,
+      "idtMilitar": "0514851278",
+      "nomeGuerra": "CASSIO",
+      "nomeCompleto": "CASSIO AMORIM DOS SANTOS DA SILVA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 254,
+      "idtMilitar": "0514857671",
+      "nomeGuerra": "ZANIOLO",
+      "nomeCompleto": "LUCAS PIMENTEL ZANIOLO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 255,
+      "idtMilitar": "0514952373",
+      "nomeGuerra": "HOINACKI",
+      "nomeCompleto": "MURILO HOINACKI",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 256,
+      "idtMilitar": "0514837970",
+      "nomeGuerra": "ISRAEL",
+      "nomeCompleto": "ISRAEL CLAUDIO DE OLIVEIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 257,
+      "idtMilitar": "0514838572",
+      "nomeGuerra": "HEITOR",
+      "nomeCompleto": "HEITOR DE TOLEDO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 258,
+      "idtMilitar": "0514839273",
+      "nomeGuerra": "CRESTANI",
+      "nomeCompleto": "GUSTAVO ADILSON CRESTANI",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 259,
+      "idtMilitar": "0514849173",
+      "nomeGuerra": "JARBAS",
+      "nomeCompleto": "GABRIEL JARBAS DE OLIVEIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 260,
+      "idtMilitar": "0514865971",
+      "nomeGuerra": "ALMEIDA",
+      "nomeCompleto": "DOGLAS CUNHA DE ALMEIDA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 261,
+      "idtMilitar": "0514867373",
+      "nomeGuerra": "DIEGO",
+      "nomeCompleto": "DIEGO DOS SANTOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 262,
+      "idtMilitar": "0514836576",
+      "nomeGuerra": "BUREI",
+      "nomeCompleto": "KAUA CAETANO BUREI",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 263,
+      "idtMilitar": "0515058576",
+      "nomeGuerra": "CARVALHO",
+      "nomeCompleto": "VINICIUS GABRIEL DE CARVALHO DOS SANTOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 264,
+      "idtMilitar": "0515059079",
+      "nomeGuerra": "BONATTO",
+      "nomeCompleto": "SERGIO LUIZ GUERINO BONATTO TOMIYA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 265,
+      "idtMilitar": "0515059277",
+      "nomeGuerra": "FERRAZ",
+      "nomeCompleto": "SAMUEL DOS SANTOS FERRAZ",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 266,
+      "idtMilitar": "0515059970",
+      "nomeGuerra": "PEDRO MIGUEL",
+      "nomeCompleto": "PEDRO MIGUEL RAIMUNDO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 267,
+      "idtMilitar": "0515359776",
+      "nomeGuerra": "CASTRO SILVA",
+      "nomeCompleto": "CAUA DE CASTRO SILVA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 268,
+      "idtMilitar": "0515364073",
+      "nomeGuerra": "PIKULSKI",
+      "nomeCompleto": "JOAO HENRIQUE PIKULSKI",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 269,
+      "idtMilitar": "0515364875",
+      "nomeGuerra": "SILVA LEAO",
+      "nomeCompleto": "JOSE KAUA SILVA AREA LEAO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 270,
+      "idtMilitar": "0515365971",
+      "nomeGuerra": "BANDEIRA",
+      "nomeCompleto": "VICTOR GABRIEL CALEGARIO BANDEIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 271,
+      "idtMilitar": "0515366276",
+      "nomeGuerra": "BRELAZ",
+      "nomeCompleto": "JOSHUE BRELAZ DE MORAES",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 272,
+      "idtMilitar": "0515368371",
+      "nomeGuerra": "GUILHERME MELO",
+      "nomeCompleto": "GUILHERME CAMARGO DE MELO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 273,
+      "idtMilitar": "0514851179",
+      "nomeGuerra": "ARAUJO",
+      "nomeCompleto": "FELIPE ARAUJO LEITE",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 274,
+      "idtMilitar": "0514856178",
+      "nomeGuerra": "QUADROS",
+      "nomeCompleto": "MATHEUS DE QUADROS MARTINS DE OLIVEIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 275,
+      "idtMilitar": "0514837673",
+      "nomeGuerra": "IZAEL",
+      "nomeCompleto": "IZAEL CANDIDO DE OLIVEIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 276,
+      "idtMilitar": "0514838374",
+      "nomeGuerra": "RIBEIRO",
+      "nomeCompleto": "HERIK RIBEIRO SANTOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 277,
+      "idtMilitar": "0514877372",
+      "nomeGuerra": "SANS",
+      "nomeCompleto": "DAVI SANS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 278,
+      "idtMilitar": "0514836774",
+      "nomeGuerra": "JOHN",
+      "nomeCompleto": "JOHN VICTOR VIANA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 279,
+      "idtMilitar": "0515360279",
+      "nomeGuerra": "GALVAO",
+      "nomeCompleto": "GUILHERME GALVAO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 280,
+      "idtMilitar": "0515365179",
+      "nomeGuerra": "GLADISON",
+      "nomeCompleto": "GLADISON VINICIOS RELINSKI CORDEIRO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 281,
+      "idtMilitar": "0515367373",
+      "nomeGuerra": "WALTER",
+      "nomeCompleto": "JOAO PEDRO WALTER DOS SANTOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 282,
+      "idtMilitar": "0515369775",
+      "nomeGuerra": "LANDOSKI",
+      "nomeCompleto": "AUGUSTO LANDOSKI TORRENS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 283,
+      "idtMilitar": "0514852771",
+      "nomeGuerra": "SZYMANSKI",
+      "nomeCompleto": "EDUARDO RAUL SZYMANSKI",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 284,
+      "idtMilitar": "0514864271",
+      "nomeGuerra": "LUCA",
+      "nomeCompleto": "LUCA WORMSBECHER DE OLIVEIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 285,
+      "idtMilitar": "0514864370",
+      "nomeGuerra": "LOGAN",
+      "nomeCompleto": "LOGAN GABRIEL DE LIMA CHIURATTO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 286,
+      "idtMilitar": "0514864974",
+      "nomeGuerra": "LOPES",
+      "nomeCompleto": "KAUAN EDUARDO FARIA RIBEIRO LOPES",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 287,
+      "idtMilitar": "0514837178",
+      "nomeGuerra": "DE PAULA",
+      "nomeCompleto": "JOAO VINICIOS FAGUNDES DE PAULA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 288,
+      "idtMilitar": "0514838275",
+      "nomeGuerra": "IAN",
+      "nomeCompleto": "IAN FELIPP DINIZ",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 289,
+      "idtMilitar": "0514836972",
+      "nomeGuerra": "SAMULEWSKI",
+      "nomeCompleto": "JOAO VITOR SAMULEWSKI DE MIRANDA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 290,
+      "idtMilitar": "0515060374",
+      "nomeGuerra": "OLLERMANN",
+      "nomeCompleto": "NICOLAS OLLERMANN BERWALDT SILVA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 291,
+      "idtMilitar": "0515359479",
+      "nomeGuerra": "LAZARINO",
+      "nomeCompleto": "JOSE VINICIUS LAZARINO RODRIGUES",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 292,
+      "idtMilitar": "0515363877",
+      "nomeGuerra": "MIRANDA",
+      "nomeCompleto": "ALYSSON JOSE MIRANDA DA SILVA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 293,
+      "idtMilitar": "0515364479",
+      "nomeGuerra": "SOUZA SANTOS",
+      "nomeCompleto": "JOSE LUIZ DE SOUZA SANTOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 294,
+      "idtMilitar": "0515364578",
+      "nomeGuerra": "MATEUS MIRANDA",
+      "nomeCompleto": "MATEUS MIRANDA LEITE",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 295,
+      "idtMilitar": "0515365070",
+      "nomeGuerra": "ROSA ALVES",
+      "nomeCompleto": "JOAO PEDRO DA ROSA ALVES",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 296,
+      "idtMilitar": "0515365476",
+      "nomeGuerra": "WOLDAM",
+      "nomeCompleto": "KAUA WOLDAM LEITE",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 297,
+      "idtMilitar": "0515366474",
+      "nomeGuerra": "JOELSON",
+      "nomeCompleto": "JOELSON LUIZ RAMOS JUNIOR",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 298,
+      "idtMilitar": "0515366573",
+      "nomeGuerra": "DA COSTA",
+      "nomeCompleto": "ANTONY DANIEL DA COSTA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 299,
+      "idtMilitar": "0515367175",
+      "nomeGuerra": "NAIMBURG",
+      "nomeCompleto": "EDUARDO NAIMBURG FELIPE",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 300,
+      "idtMilitar": "0515369577",
+      "nomeGuerra": "EDUARDO MENDES",
+      "nomeCompleto": "CARLOS EDUARDO MENDES DA SILVA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 301,
+      "idtMilitar": "0515369874",
+      "nomeGuerra": "TRISTAO",
+      "nomeCompleto": "GUSTAVO TRISTAO DE AZEVEDO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 302,
+      "idtMilitar": "0515370070",
+      "nomeGuerra": "RIBEIRO",
+      "nomeCompleto": "MATHEUS RIBEIRO PEREIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 303,
+      "idtMilitar": "0514852276",
+      "nomeGuerra": "VILLATORE",
+      "nomeCompleto": "ERNANI GABRIEL VILLATORE",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 304,
+      "idtMilitar": "0514864578",
+      "nomeGuerra": "CANTUARIA",
+      "nomeCompleto": "KEVEN HENRIQUE DE SOUSA CANTUARIA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 305,
+      "idtMilitar": "0514864677",
+      "nomeGuerra": "LINS",
+      "nomeCompleto": "KEFFERSON PABLO LINS DA SILVA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 306,
+      "idtMilitar": "0514837079",
+      "nomeGuerra": "DE MELO",
+      "nomeCompleto": "JOAO VITOR GARCIA DE MELO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 307,
+      "idtMilitar": "0514838077",
+      "nomeGuerra": "KLUG",
+      "nomeCompleto": "IGOR FAGUNDES KLUG",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 308,
+      "idtMilitar": "0514849777",
+      "nomeGuerra": "FRANCISCO",
+      "nomeCompleto": "FRANCISCO ANTUNES VIEIRA PINTO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 309,
+      "idtMilitar": "0514850379",
+      "nomeGuerra": "DEL ANHOL",
+      "nomeCompleto": "FELIPE GABRIEL DEL ANHOL SILVA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 310,
+      "idtMilitar": "0515368777",
+      "nomeGuerra": "LUIS FERREIRA",
+      "nomeCompleto": "ANDRE LUIS FERREIRA RODRIGUES",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 311,
+      "idtMilitar": "0515370674",
+      "nomeGuerra": "ROSSI",
+      "nomeCompleto": "CAIO FELIPE ROSSI DE ALMEIDA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 312,
+      "idtMilitar": "0514856673",
+      "nomeGuerra": "BONIFACIO",
+      "nomeCompleto": "MARCELLO BONIFACIO KLAMPFL",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 313,
+      "idtMilitar": "0514857275",
+      "nomeGuerra": "JAQUES",
+      "nomeCompleto": "LUIS GUSTAVO JAQUES DE PAULA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 314,
+      "idtMilitar": "0514950476",
+      "nomeGuerra": "NETO",
+      "nomeCompleto": "MOISES RICARDO DOS SANTOS NETO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 315,
+      "idtMilitar": "0514838176",
+      "nomeGuerra": "IGOR",
+      "nomeCompleto": "IGOR CAMARGO DOS SANTOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 316,
+      "idtMilitar": "0514874072",
+      "nomeGuerra": "DE SOUZA",
+      "nomeCompleto": "DIEGO DE SOUZA FERREIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 317,
+      "idtMilitar": "0515058774",
+      "nomeGuerra": "ARNAU",
+      "nomeCompleto": "VICTOR MATHEUS ARNAU DE MOURA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 318,
+      "idtMilitar": "0515363075",
+      "nomeGuerra": "DE LIMA",
+      "nomeCompleto": "CARLOS EDUARDO CAMARGO DE LIMA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 319,
+      "idtMilitar": "0515365773",
+      "nomeGuerra": "FREIRE",
+      "nomeCompleto": "GABRIEL RODRIGUES DE OLIVEIRA FREIRE",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 320,
+      "idtMilitar": "0515369270",
+      "nomeGuerra": "BIZINOTO",
+      "nomeCompleto": "CARLOS EDUARDO BIZINOTO GOMES",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 321,
+      "idtMilitar": "0514783976",
+      "nomeGuerra": "LEAO",
+      "nomeCompleto": "ADAN CRISTIANO MUNHOZ SCHERER LEAO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 322,
+      "idtMilitar": "0514881572",
+      "nomeGuerra": "ALEXANDRE SILVA",
+      "nomeCompleto": "ALEXANDRE DA SILVA GARCIA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 323,
+      "idtMilitar": "0514853175",
+      "nomeGuerra": "BLANC",
+      "nomeCompleto": "EDUARDO BLANC",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 324,
+      "idtMilitar": "0514837376",
+      "nomeGuerra": "JOAO",
+      "nomeCompleto": "JOAO HENRIQUE DE OLIVEIRA ANHAIA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 325,
+      "idtMilitar": "0514838770",
+      "nomeGuerra": "GUSTAVO",
+      "nomeCompleto": "GUSTAVO KUSS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 326,
+      "idtMilitar": "0514838978",
+      "nomeGuerra": "VIDAL",
+      "nomeCompleto": "GUSTAVO DE JESUS VIDAL",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 327,
+      "idtMilitar": "0514865377",
+      "nomeGuerra": "KAUALIF",
+      "nomeCompleto": "KAUALIF FLAVIO PEDROSO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 328,
+      "idtMilitar": "0514878875",
+      "nomeGuerra": "CHRISTOPHER",
+      "nomeCompleto": "CHRISTOPHER HENRIQUE RODRIGUES COITO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 329,
+      "idtMilitar": "0514836477",
+      "nomeGuerra": "CUSTODIO",
+      "nomeCompleto": "KAUA CUSTODIO DOS SANTOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 330,
+      "idtMilitar": "0515059871",
+      "nomeGuerra": "MARCAL",
+      "nomeCompleto": "RAPHAEL FERREIRA MARCAL",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 331,
+      "idtMilitar": "0515359677",
+      "nomeGuerra": "KALEL",
+      "nomeCompleto": "KALEL NETO GUIMARAES",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 332,
+      "idtMilitar": "0515360477",
+      "nomeGuerra": "ISAQUE",
+      "nomeCompleto": "ISAQUE MOREIRA DA SILVA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 333,
+      "idtMilitar": "0515363778",
+      "nomeGuerra": "NATEL",
+      "nomeCompleto": "KAUA NATEL DE LIMA CARDOSO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 334,
+      "idtMilitar": "0515366177",
+      "nomeGuerra": "OLICES",
+      "nomeCompleto": "OLICES AUGUSTO DA SILVEIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 335,
+      "idtMilitar": "0515368678",
+      "nomeGuerra": "HENRIQUE GOMES",
+      "nomeCompleto": "HENRIQUE GABRIEL GOMES",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 336,
+      "idtMilitar": "0514783778",
+      "nomeGuerra": "MARQUES",
+      "nomeCompleto": "ALAN MARQUES ALVES DA SILVA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 337,
+      "idtMilitar": "0514881077",
+      "nomeGuerra": "BROTTO",
+      "nomeCompleto": "BRENO WILLIAN BROTTO SILVEIRA DA SILVA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 338,
+      "idtMilitar": "0514837277",
+      "nomeGuerra": "BAPTISTUCCI",
+      "nomeCompleto": "JOAO PEDRO BAPTISTUCCI EBRAHIM",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 339,
+      "idtMilitar": "0515263572",
+      "nomeGuerra": "FRAGOSO",
+      "nomeCompleto": "JOAO EDUARDO LEAL FRAGOSO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 340,
+      "idtMilitar": "0514836873",
+      "nomeGuerra": "JOELITON",
+      "nomeCompleto": "JOELITON FONTOURA FARIA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 341,
+      "idtMilitar": "0515359974",
+      "nomeGuerra": "PHELLYPE",
+      "nomeCompleto": "KAUA PHELLYPE RODRIGUES BELLO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 342,
+      "idtMilitar": "0515360972",
+      "nomeGuerra": "VILAR",
+      "nomeCompleto": "CARLOS HENRIQUE BERNARDO VILAR",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 343,
+      "idtMilitar": "0515362077",
+      "nomeGuerra": "ALVES",
+      "nomeCompleto": "MATHEUS ALVES FERREIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 344,
+      "idtMilitar": "0515362770",
+      "nomeGuerra": "ANDRE",
+      "nomeCompleto": "ANDRE RIBEIRO PLINTA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 345,
+      "idtMilitar": "0515364172",
+      "nomeGuerra": "SIMITE",
+      "nomeCompleto": "GUSTAVO HENRIQUE SOUZA SIMITE",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 346,
+      "idtMilitar": "0515365575",
+      "nomeGuerra": "LEROY",
+      "nomeCompleto": "LEROY MIRANDA STRAFITE DE OLIVEIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 347,
+      "idtMilitar": "0515366078",
+      "nomeGuerra": "S PINHEIRO",
+      "nomeCompleto": "SAMUEL REIS PINHEIRO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 348,
+      "idtMilitar": "0515367571",
+      "nomeGuerra": "LADISLAU",
+      "nomeCompleto": "GUSTAVO LADISLAU RODRIGUES DOS SANTOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 349,
+      "idtMilitar": "0515368074",
+      "nomeGuerra": "BRAGA",
+      "nomeCompleto": "GABRIEL VICTOR DE BRAGA FREIRE",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 350,
+      "idtMilitar": "0515368173",
+      "nomeGuerra": "LUCOF",
+      "nomeCompleto": "JEAN PIERRE LUCOF PRIK",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 351,
+      "idtMilitar": "0514881374",
+      "nomeGuerra": "BUDK",
+      "nomeCompleto": "ALLAN BUDK NATEL",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 352,
+      "idtMilitar": "0514851575",
+      "nomeGuerra": "EXPEDITO",
+      "nomeCompleto": "EXPEDITO RAMOS DOS SANTOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 353,
+      "idtMilitar": "0514852078",
+      "nomeGuerra": "ERYCK",
+      "nomeCompleto": "ERYCK ARRUDA DE ALMEIDA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 354,
+      "idtMilitar": "0514864479",
+      "nomeGuerra": "AMARAL",
+      "nomeCompleto": "KEVIN HENRIQUE ALBERTASSE AMARAL",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 355,
+      "idtMilitar": "0514849975",
+      "nomeGuerra": "VELOZO",
+      "nomeCompleto": "FELIPE VELOZO SANTOS DE PROENCA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 356,
+      "idtMilitar": "0515058477",
+      "nomeGuerra": "DANELLE",
+      "nomeCompleto": "VINICIUS GODOI DANELLE",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 357,
+      "idtMilitar": "0515060176",
+      "nomeGuerra": "PEDRO GUSTAVO",
+      "nomeCompleto": "PEDRO GUSTAVO RAIMUNDO BARBOSA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 358,
+      "idtMilitar": "0515360170",
+      "nomeGuerra": "URIEL",
+      "nomeCompleto": "URIEL PACHECO LOPES",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 359,
+      "idtMilitar": "0515360675",
+      "nomeGuerra": "TAVARES",
+      "nomeCompleto": "BERNARDO ROSA TAVARES",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 360,
+      "idtMilitar": "0515360774",
+      "nomeGuerra": "DHOUGLAS",
+      "nomeCompleto": "DHOUGLAS FERREIRA GOES",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 361,
+      "idtMilitar": "0515362275",
+      "nomeGuerra": "BRAYAN VELOSO",
+      "nomeCompleto": "BRAYAN VELOSO FRUTUOSO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 362,
+      "idtMilitar": "0515363976",
+      "nomeGuerra": "FROES",
+      "nomeCompleto": "DEYVY ALEX DA SILVA FROES",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 363,
+      "idtMilitar": "0515364271",
+      "nomeGuerra": "COLODINO",
+      "nomeCompleto": "FELIPE ROCHA COLODINO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 364,
+      "idtMilitar": "0515367977",
+      "nomeGuerra": "LUDVIG",
+      "nomeCompleto": "MATHEUS IAGO DE SOUZA LUDVIG",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 365,
+      "idtMilitar": "0515369171",
+      "nomeGuerra": "SILVA RAMOS",
+      "nomeCompleto": "ADRIANO DA SILVA RAMOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 366,
+      "idtMilitar": "0514851476",
+      "nomeGuerra": "ABREU",
+      "nomeCompleto": "FELIPE ABREU ROSA DOS SANTOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 367,
+      "idtMilitar": "0514856574",
+      "nomeGuerra": "SLOMPO",
+      "nomeCompleto": "MARCELO HENRIQUE FERNANDES SLOMPO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 368,
+      "idtMilitar": "0514952175",
+      "nomeGuerra": "NATHAN",
+      "nomeCompleto": "NATHAN DE OLIVEIRA SILVA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 369,
+      "idtMilitar": "0514837772",
+      "nomeGuerra": "IVAN",
+      "nomeCompleto": "IVAN GEOVANI DE OLIVEIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 370,
+      "idtMilitar": "0514841873",
+      "nomeGuerra": "GUILHERME",
+      "nomeCompleto": "GUILHERME FERREIRA DOS SANTOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 371,
+      "idtMilitar": "0514865575",
+      "nomeGuerra": "GOES",
+      "nomeCompleto": "KAUA EMANUEL GOES DA SILVA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 372,
+      "idtMilitar": "0515059475",
+      "nomeGuerra": "LOURES",
+      "nomeCompleto": "RYAN LOURES MARTINS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 373,
+      "idtMilitar": "0515359875",
+      "nomeGuerra": "SIEBERS",
+      "nomeCompleto": "MIGUEL SIEBERS PEREIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 374,
+      "idtMilitar": "0514865674",
+      "nomeGuerra": "VAN RYN",
+      "nomeCompleto": "KAUA EDUARDO DA SILVA VAN RYN",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 375,
+      "idtMilitar": "0515059178",
+      "nomeGuerra": "SAMUEL",
+      "nomeCompleto": "SAMUEL SANS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 376,
+      "idtMilitar": "0515060275",
+      "nomeGuerra": "DORIS",
+      "nomeCompleto": "PEDRO DORIS BISNETO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 377,
+      "idtMilitar": "0515361277",
+      "nomeGuerra": "GUILHERME SILVA",
+      "nomeCompleto": "GUILHERME DE OLIVEIRA DA SILVA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 378,
+      "idtMilitar": "0515362671",
+      "nomeGuerra": "GUSTAVO SILVA",
+      "nomeCompleto": "GUSTAVO DA SILVA FERREIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 379,
+      "idtMilitar": "0515365278",
+      "nomeGuerra": "BROCH",
+      "nomeCompleto": "RUAN CESAR BROCH MACHADO DA SILVA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 380,
+      "idtMilitar": "0515365872",
+      "nomeGuerra": "ANTHONY",
+      "nomeCompleto": "ANTHONY RIBEIRO DA SILVA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 381,
+      "idtMilitar": "0515366870",
+      "nomeGuerra": "W MENDES",
+      "nomeCompleto": "WESLEY MENDES PEREIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 382,
+      "idtMilitar": "0515367670",
+      "nomeGuerra": "MACIEL",
+      "nomeCompleto": "JOAO PAULO RODRIGUES MACIEL",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 383,
+      "idtMilitar": "0515368272",
+      "nomeGuerra": "JACON",
+      "nomeCompleto": "MAIKON JACON DE SIQUEIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 384,
+      "idtMilitar": "0515370179",
+      "nomeGuerra": "EDUARDO",
+      "nomeCompleto": "EDUARDO DE CASTRO RAMOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 385,
+      "idtMilitar": "0514853472",
+      "nomeGuerra": "PRUDENTE",
+      "nomeCompleto": "DOUGLAS GUIMARAES ROGERIO PRUDENTE",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 386,
+      "idtMilitar": "0514857473",
+      "nomeGuerra": "TOLENTINO",
+      "nomeCompleto": "LUCAS SANTANA TOLENTINO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 387,
+      "idtMilitar": "0513712679",
+      "nomeGuerra": "F SILVA",
+      "nomeCompleto": "GUSTAVO FELIPE DA SILVA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 388,
+      "idtMilitar": "0515363679",
+      "nomeGuerra": "JUAN PABLO",
+      "nomeCompleto": "JUAN PABLO MOREIRA BATISTA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 389,
+      "idtMilitar": "0515366771",
+      "nomeGuerra": "GEDIEL",
+      "nomeCompleto": "GEDIEL FELISBERTO DE FARIAS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 390,
+      "idtMilitar": "0515367274",
+      "nomeGuerra": "DA ROCHA",
+      "nomeCompleto": "GUSTAVO RODRIGUES DA ROCHA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 391,
+      "idtMilitar": "0515368470",
+      "nomeGuerra": "FAEL",
+      "nomeCompleto": "FAEL ELIAS DE CASTRO RIBEIRO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 392,
+      "idtMilitar": "0515368579",
+      "nomeGuerra": "VINICIUS",
+      "nomeCompleto": "VINICIUS DE SOUZA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 393,
+      "idtMilitar": "0514783679",
+      "nomeGuerra": "PEDROSO",
+      "nomeCompleto": "ALEJANDRO PEDROSO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 394,
+      "idtMilitar": "0514851773",
+      "nomeGuerra": "EVERTON",
+      "nomeCompleto": "EVERTON EDUARDO MACHADO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 395,
+      "idtMilitar": "0514864776",
+      "nomeGuerra": "OLIVEIRA CAMPOS",
+      "nomeCompleto": "KAUAN OLIVEIRA CAMPOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 396,
+      "idtMilitar": "0511775272",
+      "nomeGuerra": "FERNANDO COELHO",
+      "nomeCompleto": "FERNANDO COELHO KRUPEIZAKI",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 397,
+      "idtMilitar": "0514879279",
+      "nomeGuerra": "KOZOSKI",
+      "nomeCompleto": "DAVI CORTIANO KOZOSKI",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 398,
+      "idtMilitar": "0515058873",
+      "nomeGuerra": "THOMAS JEFERSON",
+      "nomeCompleto": "THOMAS JEFERSON DE ALMEIDA SILVA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 399,
+      "idtMilitar": "0515360071",
+      "nomeGuerra": "BUTZGE",
+      "nomeCompleto": "GUSTAVO HENRIQUE BUTZGE",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 400,
+      "idtMilitar": "0515361178",
+      "nomeGuerra": "RAZERA",
+      "nomeCompleto": "ANDRE LUIZ RAZERA SOUZA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 401,
+      "idtMilitar": "0515363570",
+      "nomeGuerra": "JOAO SANTOS",
+      "nomeCompleto": "JOAO HENRIQUE GONCALVES DOS SANTOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 402,
+      "idtMilitar": "0515365674",
+      "nomeGuerra": "OLEKSANDER",
+      "nomeCompleto": "YOHAN OLEKSANDER GAUDEDA MARCINIUK",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 403,
+      "idtMilitar": "0515366672",
+      "nomeGuerra": "GERENT",
+      "nomeCompleto": "GUILHERME GERENT DE LIMA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 404,
+      "idtMilitar": "0515366979",
+      "nomeGuerra": "EMANOEL",
+      "nomeCompleto": "FELIPE EMANOEL PRESTES DE JESUS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 405,
+      "idtMilitar": "0515367779",
+      "nomeGuerra": "DE FREITAS",
+      "nomeCompleto": "VITOR GUSTAVO LIMA DE FREITAS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 406,
+      "idtMilitar": "0514880673",
+      "nomeGuerra": "GODOY",
+      "nomeCompleto": "BRYAN GODOY DOS SANTOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 407,
+      "idtMilitar": "0514852474",
+      "nomeGuerra": "BRITO",
+      "nomeCompleto": "ENOQUE LUCAS DA SILVA BRITO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 408,
+      "idtMilitar": "0514952274",
+      "nomeGuerra": "ASAEL",
+      "nomeCompleto": "NATA ASAEL RIBAS LOPES",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 409,
+      "idtMilitar": "0514950575",
+      "nomeGuerra": "MATHIAS",
+      "nomeCompleto": "MATHIAS ROBERTO DE OLIVEIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 410,
+      "idtMilitar": "0514849272",
+      "nomeGuerra": "ZILLI",
+      "nomeCompleto": "GABRIEL DAVID SILVEIRA ZILLI",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 411,
+      "idtMilitar": "0515067973",
+      "nomeGuerra": "P MARQUES",
+      "nomeCompleto": "KLEDERSON MARQUES PALAORO DE JESUS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 412,
+      "idtMilitar": "0515057875",
+      "nomeGuerra": "VICTOR LIMA",
+      "nomeCompleto": "YAN VICTOR DE LIMA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 413,
+      "idtMilitar": "0515058378",
+      "nomeGuerra": "TEIXEIRA",
+      "nomeCompleto": "VITOR RENAN TEIXEIRA DA SILVA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 414,
+      "idtMilitar": "0515059574",
+      "nomeGuerra": "DOS ANJOS",
+      "nomeCompleto": "RYAN AUGUSTO DOS ANJOS FERNANDES",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 415,
+      "idtMilitar": "0515360576",
+      "nomeGuerra": "TRIMMER",
+      "nomeCompleto": "LUCAS TRIMMER ESMELARDI",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 416,
+      "idtMilitar": "0515365377",
+      "nomeGuerra": "ZANELATTO",
+      "nomeCompleto": "LUCAS GABRIEL ZANELATTO CARDOSO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 417,
+      "idtMilitar": "0515367878",
+      "nomeGuerra": "DE MORAES",
+      "nomeCompleto": "MARCOS VINICIUS ASSUNCAO DE MORAES",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 418,
+      "idtMilitar": "0515368876",
+      "nomeGuerra": "ZIEBARTH",
+      "nomeCompleto": "RODGER ZIEBARTH FILHO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 419,
+      "idtMilitar": "0515369676",
+      "nomeGuerra": "LESKO",
+      "nomeCompleto": "ENZO LESKO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 420,
+      "idtMilitar": "0515370278",
+      "nomeGuerra": "LEVI",
+      "nomeCompleto": "LEVI DOS REIS SIQUEIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 421,
+      "idtMilitar": "0515370575",
+      "nomeGuerra": "CANUTO",
+      "nomeCompleto": "CARLOS EDUARDO CANUTO CORDEIRO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 422,
+      "idtMilitar": "0514881473",
+      "nomeGuerra": "JESUS",
+      "nomeCompleto": "ALEXSSANDER PEREIRA DE JESUS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 423,
+      "idtMilitar": "0514857077",
+      "nomeGuerra": "COSTA",
+      "nomeCompleto": "LUKAS RAFAEL DE OLIVEIRA COSTA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 424,
+      "idtMilitar": "0514857879",
+      "nomeGuerra": "DUARTE",
+      "nomeCompleto": "LUCAS COSTA DUARTE",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 425,
+      "idtMilitar": "0514864073",
+      "nomeGuerra": "DALABONA",
+      "nomeCompleto": "MATHEUS HENRIQUE DALABONA DE ANDRADE",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 426,
+      "idtMilitar": "0514864875",
+      "nomeGuerra": "MARTINS",
+      "nomeCompleto": "KAUAN LOURENCO MARTINS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 427,
+      "idtMilitar": "0514837475",
+      "nomeGuerra": "MARINHO",
+      "nomeCompleto": "JOAO GABRIEL MARINHO DE ANDRADE",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 428,
+      "idtMilitar": "0514837574",
+      "nomeGuerra": "JARDEL",
+      "nomeCompleto": "JARDEL GONCALVES DA SILVA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 429,
+      "idtMilitar": "0514849371",
+      "nomeGuerra": "NOGAROTTO",
+      "nomeCompleto": "GABRIEL ALEXANDRE HYGINO NOGAROTTO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 430,
+      "idtMilitar": "0514850577",
+      "nomeGuerra": "MORTEAN",
+      "nomeCompleto": "FELIPE DEOSTI MORTEAN",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 431,
+      "idtMilitar": "0514879576",
+      "nomeGuerra": "CHRISTIAN",
+      "nomeCompleto": "CHRISTIAN SZOSTAK",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 432,
+      "idtMilitar": "0515058170",
+      "nomeGuerra": "WEASLEY",
+      "nomeCompleto": "WEASLEY OLIVEIRA MARTINS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 433,
+      "idtMilitar": "0515059772",
+      "nomeGuerra": "MARIANO",
+      "nomeCompleto": "RODRIGO MARIANO FILHO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 434,
+      "idtMilitar": "0515362176",
+      "nomeGuerra": "MAISEN",
+      "nomeCompleto": "GUSTAVO MAISEN ANDREIS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 435,
+      "idtMilitar": "0515362374",
+      "nomeGuerra": "GENGUINE",
+      "nomeCompleto": "RUAN GENGUINE DA SILVA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 436,
+      "idtMilitar": "0515363471",
+      "nomeGuerra": "OSVALDIR",
+      "nomeCompleto": "OSVALDIR DIAS DA SILVA NETO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 437,
+      "idtMilitar": "0515364370",
+      "nomeGuerra": "GABRIEL MARTINS",
+      "nomeCompleto": "GABRIEL HENRIQUE MARTINS BARBOSA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 438,
+      "idtMilitar": "0509566675",
+      "nomeGuerra": "DIRCEU",
+      "nomeCompleto": "DIRCEU DOS SANTOS FERREIRA JUNIOR",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 439,
+      "idtMilitar": "0510553472",
+      "nomeGuerra": "MOREIRA",
+      "nomeCompleto": "THIAGO MOREIRA DOS SANTOS",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 440,
+      "idtMilitar": "0512066572",
+      "nomeGuerra": "ALVARO",
+      "nomeCompleto": "ALVARO NUNES DE MOURA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 441,
+      "idtMilitar": "0512778473",
+      "nomeGuerra": "EDERSON",
+      "nomeCompleto": "EDERSON PEREIRA MARTINS",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 442,
+      "idtMilitar": "0512786070",
+      "nomeGuerra": "CARPEGGIANE",
+      "nomeCompleto": "ALYSSON CARPEGGIANE DE OLIVEIRA",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 443,
+      "idtMilitar": "0513713578",
+      "nomeGuerra": "ESTANISLAO",
+      "nomeCompleto": "BRAYAN ESTANISLAO KAWALEC",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 444,
+      "idtMilitar": "0513715177",
+      "nomeGuerra": "ASSIS",
+      "nomeCompleto": "ERIK SAMUEL GONCALVES DE ASSIS",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 445,
+      "idtMilitar": "0513715276",
+      "nomeGuerra": "DOS SANTOS",
+      "nomeCompleto": "TIAGO SOUSA DOS SANTOS",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 446,
+      "idtMilitar": "0513718171",
+      "nomeGuerra": "MAGNO",
+      "nomeCompleto": "BRUNO GABRIEL DA SILVA GONCALVES MAGNO",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 447,
+      "idtMilitar": "0513718973",
+      "nomeGuerra": "VALE",
+      "nomeCompleto": "KAUA RICARDO DO VALE CAMARGO",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 448,
+      "idtMilitar": "0513719070",
+      "nomeGuerra": "KAUA",
+      "nomeCompleto": "KAUA DE ALMEIDA MARTINS",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 449,
+      "idtMilitar": "0513720573",
+      "nomeGuerra": "ANTHONY",
+      "nomeCompleto": "ANTHONY PIMENTA PINTO",
+      "postoGraduacao": "Sd"
+    },
+    {
+      "id": 450,
+      "idtMilitar": "0513710376",
+      "nomeGuerra": "ZDEBSKYI",
+      "nomeCompleto": "DOUGLAS HENRIQUE ZDEBSKYI",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 451,
+      "idtMilitar": "0514257070",
+      "nomeGuerra": "GUERRIERI",
+      "nomeCompleto": "MATHEUS GABRIEL GUERRIERI DE OLIVEIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 452,
+      "idtMilitar": "0514277474",
+      "nomeGuerra": "GUSTAVO HENRIQUE",
+      "nomeCompleto": "GUSTAVO HENRIQUE JEREMIAS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 453,
+      "idtMilitar": "0514277771",
+      "nomeGuerra": "CAVALERO",
+      "nomeCompleto": "CAIO EDUARDO CAVALERO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 454,
+      "idtMilitar": "0514283878",
+      "nomeGuerra": "MENDES",
+      "nomeCompleto": "LEONARDO MENDES DE MORAIS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 455,
+      "idtMilitar": "0514284272",
+      "nomeGuerra": "PAIM",
+      "nomeCompleto": "PAULO HENRIQUE PAIM CARVALHO DA SILVA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 456,
+      "idtMilitar": "0514533074",
+      "nomeGuerra": "BRASSANINI",
+      "nomeCompleto": "PATRICK BRASSANINI DOS SANTOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 457,
+      "idtMilitar": "0514533173",
+      "nomeGuerra": "N FREITAS",
+      "nomeCompleto": "NICOLAS FREITAS DE SOUZA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 458,
+      "idtMilitar": "0514533272",
+      "nomeGuerra": "GABRIEL DO NASCIMENTO",
+      "nomeCompleto": "GABRIEL DO NASCIMENTO PACHECO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 459,
+      "idtMilitar": "0514533371",
+      "nomeGuerra": "YGOR",
+      "nomeCompleto": "YGOR GABRYEL SCHULTZ DOS SANTOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 460,
+      "idtMilitar": "0514533470",
+      "nomeGuerra": "MANUEL",
+      "nomeCompleto": "LUCAS MANUEL ALVES RIBEIRO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 461,
+      "idtMilitar": "0514533579",
+      "nomeGuerra": "SANTOS FERREIRA",
+      "nomeCompleto": "DAMASIO DOS SANTOS FERREIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 462,
+      "idtMilitar": "0514533678",
+      "nomeGuerra": "SIMAS",
+      "nomeCompleto": "JOAO ALEXANDRE ELIAS SIMAS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 463,
+      "idtMilitar": "0514533975",
+      "nomeGuerra": "MARQUES",
+      "nomeCompleto": "ALEXANDRE RAPHAEL MARQUES DE FREITAS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 464,
+      "idtMilitar": "0514534072",
+      "nomeGuerra": "LEON",
+      "nomeCompleto": "LEON DANIEL CARDOSO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 465,
+      "idtMilitar": "0514534171",
+      "nomeGuerra": "FREDERICO",
+      "nomeCompleto": "LEONARDO VINICIUS FREDERICO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 466,
+      "idtMilitar": "0514534379",
+      "nomeGuerra": "FRANÇA",
+      "nomeCompleto": "PEDRO PAULO FRANCA FILHO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 467,
+      "idtMilitar": "0514534676",
+      "nomeGuerra": "RIBAS",
+      "nomeCompleto": "TIAGO ELEANDRO RIBAS ZEPECHOUKA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 468,
+      "idtMilitar": "0514534874",
+      "nomeGuerra": "DE BORBA",
+      "nomeCompleto": "LUCAS IZAQUE DA CONCEICAO DE BORBA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 469,
+      "idtMilitar": "0514534973",
+      "nomeGuerra": "PEREIRA",
+      "nomeCompleto": "LUIZ FERNANDO PEREIRA DE JESUS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 470,
+      "idtMilitar": "0514535079",
+      "nomeGuerra": "SADRAK",
+      "nomeCompleto": "SADRAK FIGUEREDO DA SILVA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 471,
+      "idtMilitar": "0514535376",
+      "nomeGuerra": "ENEDINO",
+      "nomeCompleto": "ENEDINO GABRIEL GRANDE FERREIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 472,
+      "idtMilitar": "0514535475",
+      "nomeGuerra": "FILHO",
+      "nomeCompleto": "MARIO HENRIQUE DA SILVA FILHO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 473,
+      "idtMilitar": "0514535673",
+      "nomeGuerra": "DOS SANTOS",
+      "nomeCompleto": "GUSTAVO DOS SANTOS OLIVEIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 474,
+      "idtMilitar": "0514535772",
+      "nomeGuerra": "CURVELLO",
+      "nomeCompleto": "ADRIANO CURVELLO JUNIOR",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 475,
+      "idtMilitar": "0514536077",
+      "nomeGuerra": "JANESKO",
+      "nomeCompleto": "MATHEUS RAMOS JANESKO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 476,
+      "idtMilitar": "0514536176",
+      "nomeGuerra": "SERQUEIRA",
+      "nomeCompleto": "ARTHUR ANTUNES SERQUEIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 477,
+      "idtMilitar": "0514536374",
+      "nomeGuerra": "GUILHERME LIMA",
+      "nomeCompleto": "GUILHERME WAGNER DE ALMEIDA DE LIMA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 478,
+      "idtMilitar": "0514536671",
+      "nomeGuerra": "VIEIRA",
+      "nomeCompleto": "VINICIUS VIEIRA MARTINS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 479,
+      "idtMilitar": "0514536770",
+      "nomeGuerra": "RIBEIRO",
+      "nomeCompleto": "ANDRE LUIZ DE SOUZA ALVES RIBEIRO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 480,
+      "idtMilitar": "0514536879",
+      "nomeGuerra": "DE MEDEIROS",
+      "nomeCompleto": "LUCAS DE MEDEIROS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 481,
+      "idtMilitar": "0514537075",
+      "nomeGuerra": "OLEJUKI",
+      "nomeCompleto": "KAIQUE OLEJUKI",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 482,
+      "idtMilitar": "0514537273",
+      "nomeGuerra": "LEME",
+      "nomeCompleto": "LUCAS EDUARDO DE OLIVEIRA LEME",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 483,
+      "idtMilitar": "0514537372",
+      "nomeGuerra": "KELVYN",
+      "nomeCompleto": "KELVYN DOS SANTOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 484,
+      "idtMilitar": "0514537471",
+      "nomeGuerra": "YURI",
+      "nomeCompleto": "YURI GABRIEL BERGI PAULINO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 485,
+      "idtMilitar": "0514537570",
+      "nomeGuerra": "FERREIRA",
+      "nomeCompleto": "GABRIEL FERREIRA CARVALHO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 486,
+      "idtMilitar": "0514537679",
+      "nomeGuerra": "GUIMARAES",
+      "nomeCompleto": "JOSE EZEQUIEL GUIMARAES FRANCA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 487,
+      "idtMilitar": "0514537778",
+      "nomeGuerra": "EDUARDO JUNIOR",
+      "nomeCompleto": "EDUARDO JOSE PACHECO JUNIOR",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 488,
+      "idtMilitar": "0514537877",
+      "nomeGuerra": "SANGUINO",
+      "nomeCompleto": "LUIZ FELIPE SANGUINO DOS SANTOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 489,
+      "idtMilitar": "0514537976",
+      "nomeGuerra": "VICTOR DIAS",
+      "nomeCompleto": "ANDRE VICTOR DE OLIVEIRA DIAS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 490,
+      "idtMilitar": "0514538073",
+      "nomeGuerra": "RAMOS",
+      "nomeCompleto": "RYAN ANDRADE RAMOS DA SILVA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 491,
+      "idtMilitar": "0514538172",
+      "nomeGuerra": "FELICIO",
+      "nomeCompleto": "DEMITRI LOPES FELICIO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 492,
+      "idtMilitar": "0514538271",
+      "nomeGuerra": "PROENÇA",
+      "nomeCompleto": "JOAO MATEUS COELHO DE PROENCA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 493,
+      "idtMilitar": "0514538479",
+      "nomeGuerra": "JUCIEL",
+      "nomeCompleto": "JUCIEL FELIPE DOS SANTOS CASTRO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 494,
+      "idtMilitar": "0514538578",
+      "nomeGuerra": "HECHT",
+      "nomeCompleto": "EDUARDO HECHT",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 495,
+      "idtMilitar": "0514538776",
+      "nomeGuerra": "LACERDA",
+      "nomeCompleto": "ARTHUR LACERDA DOS REIS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 496,
+      "idtMilitar": "0514538875",
+      "nomeGuerra": "ASSUNÇÃO",
+      "nomeCompleto": "EMANUEL ALVES ASSUNCAO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 497,
+      "idtMilitar": "0514539071",
+      "nomeGuerra": "CLAUDIO",
+      "nomeCompleto": "MATHEUS KAUAN DOS SANTOS CLAUDIO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 498,
+      "idtMilitar": "0514539170",
+      "nomeGuerra": "OLIVEIRA",
+      "nomeCompleto": "BRAYAN DE SOUZA DE OLIVEIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 499,
+      "idtMilitar": "0514539279",
+      "nomeGuerra": "QUEIROZ",
+      "nomeCompleto": "VITOR CESAR QUEIROZ RAMOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 500,
+      "idtMilitar": "0514539378",
+      "nomeGuerra": "BETIM",
+      "nomeCompleto": "JOAO VITOR BETIM DOS SANTOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 501,
+      "idtMilitar": "0514539477",
+      "nomeGuerra": "GRIEBLER",
+      "nomeCompleto": "GABRIEL VINICIUS GRIEBLER",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 502,
+      "idtMilitar": "0514539576",
+      "nomeGuerra": "FERREIRA",
+      "nomeCompleto": "BRUNO ROBERTO FERREIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 503,
+      "idtMilitar": "0514539675",
+      "nomeGuerra": "MARINELI",
+      "nomeCompleto": "KAUA DE CASTRO MARINELI",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 504,
+      "idtMilitar": "0514539873",
+      "nomeGuerra": "CRUZ",
+      "nomeCompleto": "ANDRE LUIZ RIBEIRO DA CRUZ",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 505,
+      "idtMilitar": "0514539972",
+      "nomeGuerra": "DIONIZIO",
+      "nomeCompleto": "JOAO VITOR DIONIZIO DIAS DE MORAIS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 506,
+      "idtMilitar": "0514540079",
+      "nomeGuerra": "COSTA",
+      "nomeCompleto": "ALYSON COSTA CARNEIRO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 507,
+      "idtMilitar": "0514540178",
+      "nomeGuerra": "MACHIONI",
+      "nomeCompleto": "VITOR MACHIONI",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 508,
+      "idtMilitar": "0514540277",
+      "nomeGuerra": "FERNANDES",
+      "nomeCompleto": "MATHEUS EDUARDO MOREIRA FERNANDES",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 509,
+      "idtMilitar": "0514540376",
+      "nomeGuerra": "REYNALDO",
+      "nomeCompleto": "REYNALDO GABRIEL SUACKI LUNARDAN",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 510,
+      "idtMilitar": "0514540475",
+      "nomeGuerra": "ANDREW",
+      "nomeCompleto": "ANDREW GUSTAVO MASBA DE OLIVEIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 511,
+      "idtMilitar": "0514540871",
+      "nomeGuerra": "MARTINS",
+      "nomeCompleto": "JONATHA HENRIQUE MARTINS FERREIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 512,
+      "idtMilitar": "0514540970",
+      "nomeGuerra": "ARILDO",
+      "nomeCompleto": "ARILDO MACHADO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 513,
+      "idtMilitar": "0514541275",
+      "nomeGuerra": "DE JESUS",
+      "nomeCompleto": "MARLON MARQUES DE JESUS COPATTI",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 514,
+      "idtMilitar": "0514541374",
+      "nomeGuerra": "LUNARDAN",
+      "nomeCompleto": "NATHAN EDUARDO LUNARDAN DE OLIVEIRA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 515,
+      "idtMilitar": "0514541473",
+      "nomeGuerra": "BLIND",
+      "nomeCompleto": "EDSON SANTANA DA SILVA BLIND",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 516,
+      "idtMilitar": "0514541572",
+      "nomeGuerra": "TRUPPEL",
+      "nomeCompleto": "CAIO TRUPPEL",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 517,
+      "idtMilitar": "0514541770",
+      "nomeGuerra": "VICTOR",
+      "nomeCompleto": "KAYNA VICTOR RIBEIRO CARDOSO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 518,
+      "idtMilitar": "0514541978",
+      "nomeGuerra": "FERREIRA",
+      "nomeCompleto": "PAULO GABRIEL FERREIRA DA SILVA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 519,
+      "idtMilitar": "0514542075",
+      "nomeGuerra": "JONAS",
+      "nomeCompleto": "JONAS ALVES DA SILVA",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 520,
+      "idtMilitar": "0514542273",
+      "nomeGuerra": "EUFRASIO",
+      "nomeCompleto": "MATHEUS CHAGAS EUFRASIO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 521,
+      "idtMilitar": "0514856871",
+      "nomeGuerra": "MAIKE",
+      "nomeCompleto": "MAIKE DOS SANTOS CORDEIRO",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 522,
+      "idtMilitar": "0515058279",
+      "nomeGuerra": "VITORIO",
+      "nomeCompleto": "VITORIO AUGUSTO DE SOUZA MOREIRA DOS SANTOS",
+      "postoGraduacao": "Sd Rcr"
+    },
+    {
+      "id": 523,
+      "idtMilitar": "0513714972",
+      "nomeGuerra": "VENANCIO",
+      "nomeCompleto": "ALEXANDRE VENANCIO SIQUEIRA",
+      "postoGraduacao": "Sd"
+    }
+  ],
+  "fatds": [
+    {
+      "militar": {
+        "id": 131,
+        "idtMilitar": "0513600478",
+        "nomeGuerra": "RYAN",
+        "nomeCompleto": "RYAN DE SOUZA MELO DE ARAUJO",
+        "postoGraduacao": "Sd"
+      },
+      "nup": 258,
+      "nupCompleto": "65378.008968/2025-16",
+      "dataProcesso": "2025-09-26",
+      "referencia": "DIEx nº 4672-Ch Esc Ap Pes 5ªRM/DE/B Adm Ap",
+      "relatoFato": "Por ter deixado de cumprir, sem justo motivo, as determinações constantes da missão recebida na Comissão de Seleção Permanente das Forças Armadas, o que ocasionou atraso e desorganização no atendimento aos conscritos no dia 2 de setembro de 2025.",
+      "decisaoPunicao": "Da análise do relato do fato, das razões de defesa e da oitiva do militar arrolado como autor da transgressão relatou, por meio do DIEx nº 4672-Ch Esc Ap Pes 5ªRM/DE/B Adm Ap, que o Sd RYAN DE SOUZA MELO DE ARAUJO, Por ter deixado de cumprir, sem justo motivo, as determinações constantes da missão recebida na Comissão de Seleção Permanente das Forças Armadas, o que ocasionou atraso e desorganização no atendimento aos conscritos no dia 2 de setembro de 2025..\n\nEm suas justificativas/razões de defesa por escrito, que se encontram anexadas a este processo, e em sua oitiva o Sd RYAN afirmou que... (complemente aqui se necessário).\n\nArtigo 18\n\nPasso a decidir.\nA ação praticada pelo RYAN no dia 26 de setembro de 2025 configura-se como transgressão disciplinar prevista no: Nr 1 do Anexo I (Faltar à verdade ou omitir deliberadamente informações que possam conduzir à apuração de uma transgressão disciplinar).\n\nAssim, considero que, por não ter apresentado razões de defesa plausíveis que pudessem configurar causa de justificativa prevista no Art. 18 do RDE, fica advertido por ${quantidadeDias} (Art. 24), permanecendo no comportamento \u0027Bom\u0027.\n\nCuritiba-PR, 26 de novembro de 2025",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "advertido",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 132,
+        "idtMilitar": "0513601179",
+        "nomeGuerra": "TIMOTEO",
+        "nomeCompleto": "MATHEUS PADILHA TIMOTEO",
+        "postoGraduacao": "Sd"
+      },
+      "nup": 259,
+      "nupCompleto": "65378.008969/2025-52",
+      "dataProcesso": "2025-09-26",
+      "referencia": "DIEx nº 4672-Ch Esc Ap Pes 5ªRM/DE/B Adm Ap",
+      "relatoFato": "Por ter deixado de cumprir, sem justo motivo, as determinações constantes da missão recebida na Comissão de Seleção Permanente das Forças Armadas, o que ocasionou atraso e desorganização no atendimento aos conscritos no dia 2 de setembro de 2025.",
+      "decisaoPunicao": "Não justifica. ( Justificado. ( tudo do Regulamento Disciplinar do Exército). Nr 3 do Anexo I (Concorrer para a discórdia ou a desarmonia ou cultivar inimizade entre militares ou seus familiares)  Nr 9 do Anexo I (Deixar de cumprir prescrições expressamente estabelecidas no Estatuto dos Militares ou em outras leis e regulamentos, desde que não haja tipificação como crime ou contravenção penal, cuja violação afete os preceitos da hierarquia e disciplina, a ética militar, a honra pessoal, o pundonor militar ou o decoro da classe)  Nr 21 do Anexo I (Disparar arma por imprudência ou negligência)  Nr 39 do Anexo I (Ter pouco cuidado com a apresentação pessoal ou com o asseio próprio ou coletivo)  no Inciso I (Bom comportamento), do artigo 19 no Inciso III (Ter sido a transgressão cometida para evitar mal maior), do artigo 19 no Inciso II (Prática simultânea ou conexão de duas ou mais transgressões), do artigo 20, e agravante na alínea ",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 309,
+        "idtMilitar": "0514837772",
+        "nomeGuerra": "IVAN",
+        "nomeCompleto": "IVAN GEOVANI DE OLIVEIRA",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 260,
+      "nupCompleto": "65378.008970/2025-87",
+      "dataProcesso": "2025-09-26",
+      "referencia": "DIEx nº 4710-02 - SCmt/B Adm Ap",
+      "relatoFato": "Por ter sido visto sentando durante seu quarto de hora pelo Sd EP Vargas, da 5ª Cia PE, durante o serviço de Guarda ao Quartel do dia 6 de setembro para 2025.",
+      "decisaoPunicao": "Não justifica. ( Nr 7 do Anexo I (Retardar o cumprimento, deixar de cumprir ou de fazer cumprir norma regulamentar na esfera de suas atribuições)  com atenunantes no Inciso V (Falta de prática do serviço), do artigo 19 no Inciso III (Ter sido a transgressão cometida para evitar mal maior), do artigo 19 e agravante na alínea  no Inciso I (Mau comportamento), do artigo 20, no Inciso VI (Ter praticado a transgressão), do artigo 20, d) em presença de tropa b) em presença de subordinado tudo do Regulamento Disciplinar do Exército).",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 381,
+        "idtMilitar": "0514881572",
+        "nomeGuerra": "ALEXANDRE SILVA",
+        "nomeCompleto": "ALEXANDRE DA SILVA GARCIA",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 261,
+      "nupCompleto": "65378.008971/2025-21",
+      "dataProcesso": "2025-09-29",
+      "referencia": "Diex Simplificado 4103-Cmt Cia Ap/B Adm Ap",
+      "relatoFato": "Por ter sido encontrado com uma chave de vela durante a revista do Sargento de Dia no dia 16 de setembro de 2025.",
+      "decisaoPunicao": "\u003chtml\u003e\n  \u003chead\u003e\n    \n  \u003c/head\u003e\n  \u003cbody\u003e\n    \u003cdiv class\u003d\"header\"\u003e\n      DECIS\u0026#195;O DO COMANDANTE DA CIA COM PC\n    \u003c/div\u003e\n    \u003cp\u003e\n      Da an\u0026#225;lise do relato do fato... referente ao Sd Rcr ALEXANDRE SILVA...\n    \u003c/p\u003e\n    \u003cp\u003e\n      \u003cb\u003eJULGAMENTO:\u003c/b\u003e asdasfasdasdasfasdsadsadas\n    \u003c/p\u003e\n    \u003cp\u003e\n      Passo a decidir.\n    \u003c/p\u003e\n    \u003cp\u003e\n      A a\u0026#231;\u0026#227;o praticada... configura-se como transgress\u0026#227;o prevista no: Nr 5 do \n      Anexo I (Deixar de punir o subordinado que cometer transgress\u0026#227;o, salvo \n      na ocorr\u0026#234;ncia das circunst\u0026#226;ncias de justifica\u0026#231;\u0026#227;o previstas neste \n      Regulamento) .\n    \u003c/p\u003e\n    \u003cp\u003e\n      Assim, considero que... fica detido disciplinarmente por 2 (dois) dias \n      (com atenunte no Inciso I (Bom comportamento), do artigo 19) e e \n      agravante na al\u0026#237;nea a) durante a execu\u0026#231;\u0026#227;o de servi\u0026#231;o e d) em presen\u0026#231;a de \n      tropa, tudo do Regulamento Disciplinar do Ex\u0026#233;rcito). permanecendo no \n      comportamento \u0027Bom\u0027.\n    \u003c/p\u003e\n    \u003cbr\u003e\n    \n\n    \u003cp\u003e\n      Curitiba-PR, 26/11/2025\n    \u003c/p\u003e\n  \u003c/body\u003e\n\u003c/html\u003e\n",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 60,
+        "idtMilitar": "0512062175",
+        "nomeGuerra": "DE ANDRADE",
+        "nomeCompleto": "ISAAK MATHEUS DE ANDRADE",
+        "postoGraduacao": "Cb"
+      },
+      "nup": 262,
+      "nupCompleto": "65378.008972/2025-76",
+      "dataProcesso": "2025-09-26",
+      "referencia": "DIEx 4909-02 - SCmt/B Adm Ap",
+      "relatoFato": "Por ter gesticulando dentro da viatura em maneira de discordância após não ter sido liberado para sair do Forte do Pinheirinho, devido às divergências de informações de ficha de Vtr, SACVOM e\na viatura propriamente utilizada, cuja finalidade era o transporte da Banda de Música para a formatura.",
+      "decisaoPunicao": "\u003chtml\u003e\n  \u003chead\u003e\n    \n  \u003c/head\u003e\n  \u003cbody\u003e\n    \u003cdiv class\u003d\"header\"\u003e\n      DECIS\u0026#195;O DO COMANDANTE DA CIA COM PC\n    \u003c/div\u003e\n    \u003cp\u003e\n      Da an\u0026#225;lise do relato do fato... referente ao Cb DE ANDRADE...\n    \u003c/p\u003e\n    \u003cp\u003e\n      \u003cb\u003eJULGAMENTO:\u003c/b\u003e soldado z\u0026#233; bombinha confessou que....\n    \u003c/p\u003e\n    \u003cp\u003e\n      Passo a decidir.\n    \u003c/p\u003e\n    \u003cp\u003e\n      A a\u0026#231;\u0026#227;o praticada... configura-se como transgress\u0026#227;o prevista no: Nr 9 do \n      Anexo I (Deixar de cumprir prescri\u0026#231;\u0026#245;es expressamente estabelecidas no \n      Estatuto dos Militares ou em outras leis e regulamentos, desde que n\u0026#227;o \n      haja tipifica\u0026#231;\u0026#227;o como crime ou contraven\u0026#231;\u0026#227;o penal, cuja viola\u0026#231;\u0026#227;o afete \n      os preceitos da hierarquia e disciplina, a \u0026#233;tica militar, a honra \n      pessoal, o pundonor militar ou o decoro da classe) .\n    \u003c/p\u003e\n    \u003cp\u003e\n      Assim, considero que... fica Repreens\u0026#227;o por 1 dia (com atenunteno \n      Inciso I (Bom comportamento), do artigo 19), e agravante na al\u0026#237;nea a) \n      durante a execu\u0026#231;\u0026#227;o de servi\u0026#231;o tudo do Regulamento Disciplinar do \n      Ex\u0026#233;rcito). permanecendo no comportamento \u0027Bom\u0027.\n    \u003c/p\u003e\n    \u003cbr\u003e\n    \n\n    \u003cp\u003e\n      Curitiba-PR, 26/11/2025\n    \u003c/p\u003e\n  \u003c/body\u003e\n\u003c/html\u003e\n",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 368,
+        "idtMilitar": "0514876077",
+        "nomeGuerra": "RESNIZEKI",
+        "nomeCompleto": "DHIOGO SLOMPO RESNIZEKI",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 263,
+      "nupCompleto": "65378.008973/2025-11",
+      "dataProcesso": "2025-10-02",
+      "referencia": "DIEx 4832-02 - SCmt/B Adm Ap",
+      "relatoFato": "Por ter portado cigarro eletrônico durante o serviço de Guarda ao Quartel no dia 11 de setembro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "112222",
+      "bi": "190",
+      "quantidadeDias": 3,
+      "punicao": "Impedimento Disciplinar",
+      "concluido": true,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 398,
+        "idtMilitar": "0515058873",
+        "nomeGuerra": "THOMAS JEFERSON",
+        "nomeCompleto": "THOMAS JEFERSON DE ALMEIDA SILVA",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 264,
+      "nupCompleto": "65378.008974/2025-65",
+      "dataProcesso": "2025-09-26",
+      "referencia": "DIEx 4832-02 - SCmt/B Adm Ap",
+      "relatoFato": "Por ter portado cigarro eletrônico durante o serviço de Guarda ao Quartel no dia 11 de setembro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 324,
+        "idtMilitar": "0514849272",
+        "nomeGuerra": "ZILLI",
+        "nomeCompleto": "GABRIEL DAVID SILVEIRA ZILLI",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 265,
+      "nupCompleto": "65378.008975/2025-18",
+      "dataProcesso": "2025-09-26",
+      "referencia": "DIEx 4849-02 - SCmt/B Adm Ap",
+      "relatoFato": "Por ter contrariado a 3º Sgt TATIANE PINHEIRO na frente dos outros sentinelas, após a mesma emitir orientação aos guardas no horário em que ela estava de Permanência na Guarda. Além disso, durante a manutenção do Corpo da Guarda após a alvorada, o recruta não cumpriu todas as tarefas delegadas ao mesmo pela 3º Sgt TATIANE PINHEIRO.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 416,
+        "idtMilitar": "050.956.417-5",
+        "nomeGuerra": "HENRIQUE GOMES",
+        "nomeCompleto": "HENRIQUE GABRIEL GOMES",
+        "postoGraduacao": "Sd EV"
+      },
+      "nup": 266,
+      "nupCompleto": "65378.008976/2025-54",
+      "dataProcesso": "2025-09-26",
+      "referencia": "DIEx 4849-02 - SCmt/B Adm Ap",
+      "relatoFato": "Por ter sido observado durante a parada diária com o cabelo grande no dia 14 de setembro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 30,
+        "idtMilitar": "0510432776",
+        "nomeGuerra": "SENETRA",
+        "nomeCompleto": "GUILHERME AUGUSTO SENETRA DOS SANTOS",
+        "postoGraduacao": "Cb"
+      },
+      "nup": 267,
+      "nupCompleto": "65378.008977/2025-07",
+      "dataProcesso": "2025-09-26",
+      "referencia": "DIEx nº 4811-Esc Ap Pes 5ª RM/DE/Ch Esc Ap Pes 5ªRM/DE/B Adm Ap",
+      "relatoFato": "Por ter utilizado breves não previstos no RUE.",
+      "decisaoPunicao": "Da análise do relato do fato, das razões de defesa e da oitiva do militar arrolado como autor da transgressão relatou, por meio do DIEx nº 4811-Esc Ap Pes 5ª RM/DE/Ch Esc Ap Pes 5ªRM/DE/B Adm Ap, que o Cb GUILHERME AUGUSTO SENETRA DOS SANTOS, Por ter utilizado breves não previstos no RUE..\n\nEm suas justificativas/razões de defesa por escrito, que se encontram anexadas a este processo, e em sua oitiva o Cb SENETRA afirmou que... (complemente aqui se necessário).\n\nJustificado. (\n\nPasso a decidir.\nA ação praticada pelo SENETRA no dia 26 de setembro de 2025 configura-se como transgressão disciplinar prevista no: Nr 1 do Anexo I (Faltar à verdade ou omitir deliberadamente informações que possam conduzir à apuração de uma transgressão disciplinar).\n\nAssim, considero que, por não ter apresentado razões de defesa plausíveis que pudessem configurar causa de justificativa prevista no Art. 18 do RDE, fica prisão disciplinar por ${quantidadeDias} (Art. 24), permanecendo no comportamento \u0027Bom\u0027.\n\nCuritiba-PR, 26 de novembro de 2025",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "prisão disciplinar",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 219,
+        "idtMilitar": "0515059673",
+        "nomeGuerra": "AGUIAR",
+        "nomeCompleto": "RUBENS DE AGUIAR NETO",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 268,
+      "nupCompleto": "65378.008978/2025-43",
+      "dataProcesso": "2025-09-26",
+      "referencia": "DIEx Simplificado Nº 3924-Cmt Cia Ap/B Adm Ap",
+      "relatoFato": "Por não ter comparecido ao serviço no dia 30 de agosto de 2025",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 302,
+        "idtMilitar": "0514838176",
+        "nomeGuerra": "IGOR",
+        "nomeCompleto": "IGOR CAMARGO DOS SANTOS",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 269,
+      "nupCompleto": "65378.008979/2025-98",
+      "dataProcesso": "2025-09-26",
+      "referencia": "DIEx Simplificado Nº 3927-Cmt Cia Ap/B Adm Ap",
+      "relatoFato": "Por ter sido encontrado fumando dentro do alojamento no dia 7 de setembro de 2025",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 363,
+        "idtMilitar": "0515060275",
+        "nomeGuerra": "DORIS",
+        "nomeCompleto": "PEDRO DORIS BISNETO",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 270,
+      "nupCompleto": "65378.008980/2025-12",
+      "dataProcesso": "2025-09-26",
+      "referencia": "DIEx nº 4707-02 - SCmt/B Adm Ap",
+      "relatoFato": "Por ter sido encontrado durante a parada diária sem ter aparado a barba no dia 5 de setembro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 392,
+        "idtMilitar": "0515367779",
+        "nomeGuerra": "DE FREITAS",
+        "nomeCompleto": "VITOR GUSTAVO LIMA DE FREITAS",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 271,
+      "nupCompleto": "65378.008981/2025-67",
+      "dataProcesso": "2025-09-26",
+      "referencia": "DIEx nº 4707-02 - SCmt/B Adm Ap",
+      "relatoFato": "Por ter sido encontrado com o cabelo grande e fora do padrão na parada diária do dia 5 de setembro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 345,
+        "idtMilitar": "0515360170",
+        "nomeGuerra": "URIEL",
+        "nomeCompleto": "URIEL PACHECO LOPES",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 272,
+      "nupCompleto": "2025115515/2025",
+      "dataProcesso": "2025-09-26",
+      "referencia": "DIEx nº 4707-02 - SCmt/B Adm Ap",
+      "relatoFato": "Por ter sido encontrado com o cabelo grande e fora do padrão na parada diária do dia 5 de setembro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 196,
+        "idtMilitar": "0515362473",
+        "nomeGuerra": "BRUM",
+        "nomeCompleto": "VITOR SILVA BRUM",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 273,
+      "nupCompleto": "448454",
+      "dataProcesso": "2025-09-26",
+      "referencia": "DIEx nº 4707-02 - SCmt/B Adm Ap",
+      "relatoFato": "DIEx nº 4707-02 - SCmt/B Adm Ap",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 389,
+        "idtMilitar": "0515365674",
+        "nomeGuerra": "OLEKSANDER",
+        "nomeCompleto": "YOHAN OLEKSANDER GAUDEDA MARCINIUK",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 274,
+      "nupCompleto": "65378.008984/2025-09",
+      "dataProcesso": "2025-09-26",
+      "referencia": "DIEx nº 4707-02 - SCmt/B Adm Ap",
+      "relatoFato": "Por ter sido encontrado com o cabelo grande e fora do padrão na parada diária do dia 5 de setembro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 257,
+        "idtMilitar": "0515365971",
+        "nomeGuerra": "BANDEIRA",
+        "nomeCompleto": "VICTOR GABRIEL CALEGARIO BANDEIRA",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 275,
+      "nupCompleto": "65378.008985/2025-45",
+      "dataProcesso": "2025-09-26",
+      "referencia": "DIEx nº 4707-02 - SCmt/B Adm Ap",
+      "relatoFato": "Por ter sido encontrado com o cabelo grande e fora do padrão na parada diária do dia 5 de setembro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 227,
+        "idtMilitar": "0515366375",
+        "nomeGuerra": "VICENTE",
+        "nomeCompleto": "VITOR VICENTE LIMA",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 276,
+      "nupCompleto": "65378.008987/2025-34",
+      "dataProcesso": "2025-09-26",
+      "referencia": "DIEx nº 4707-02 - SCmt/B Adm Ap",
+      "relatoFato": "Por ter sido encontrado com o cabelo grande e fora do padrão na parada diária do dia 5 de setembro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 385,
+        "idtMilitar": "0514853472",
+        "nomeGuerra": "PRUDENTE",
+        "nomeCompleto": "DOUGLAS GUIMARAES ROGERIO PRUDENTE",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 277,
+      "nupCompleto": "65378.008988/2025-89",
+      "dataProcesso": "2025-09-29",
+      "referencia": "Diex Simplificado 4180-Cmt Cia Ap/B Adm Ap",
+      "relatoFato": "Por não ter comparecido ao Serviço de Guarda SU no dia 20 de setembro de 2025",
+      "decisaoPunicao": "Da análise do relato do fato, das razões de defesa e da oitiva do militar arrolado como autor da transgressão relatou, por meio do Diex Simplificado 4180-Cmt Cia Ap/B Adm Ap, que o Sd Rcr PRUDENTE, Por não ter comparecido ao Serviço de Guarda SU no dia 20 de setembro de 2025.\n\nEm suas justificativas/razões de defesa por escrito, que se encontram anexadas a este processo, e em sua oitiva o Sd Rcr PRUDENTE (CAMPO DE DEFESA/MILITAR ARROLADO).\n\nJulgamento realizado.\n\nPasso a decidir.\nA ação praticada pelo Sd Rcr PRUDENTE no dia (DATA DA TRANSGRESSÃO) configura-se como transgressão disciplinar prevista \nno: Nr 39 do Anexo I (Ter pouco cuidado com a apresentação pessoal ou com o asseio próprio ou coletivo) .\n\nAssim, considero que, por não ter apresentado razões de defesa plausíveis que pudessem configurar causa de justificativa prevista no Art. 18 do RDE, fica advertido por 12 (Art. 14), permanecendo no comportamento \u0027Bom\u0027.\n\nPresenciou a oitiva do militar arrolado, em 28 de novembro de 2025, o (Testemunha se houver).\n\nDê-se ciência da presente decisão ao militar arrolado, na forma do inciso VIII do § 2º do art. 35 do RDE.\nPublique-se e arquive-se.\n\nCuritiba-PR, 28 de novembro de 2025\n\n\n",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 12,
+      "punicao": "advertido",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 386,
+        "idtMilitar": "0514857473",
+        "nomeGuerra": "TOLENTINO",
+        "nomeCompleto": "LUCAS SANTANA TOLENTINO",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 278,
+      "nupCompleto": "65378.008989/2025-23",
+      "dataProcesso": "2025-09-29",
+      "referencia": "Diex Simplificado 4180-Cmt Cia Ap/B Adm Ap",
+      "relatoFato": "Por não ter comparecido ao Serviço de Guarda SU no dia 20 de setembro de 2025.",
+      "decisaoPunicao": "Da análise do relato do fato, das razões de defesa e da oitiva do militar arrolado como autor da transgressão relatou, por meio do Diex Simplificado 4180-Cmt Cia Ap/B Adm Ap, que o Sd Rcr TOLENTINO, Por não ter comparecido ao Serviço de Guarda SU no dia 20 de setembro de 2025..\n\nEm suas justificativas/razões de defesa por escrito, que se encontram anexadas a este processo, e em sua oitiva o Sd Rcr TOLENTINO (CAMPO DE DEFESA/MILITAR ARROLADO).\n\nJulgamento realizado.\n\nPasso a decidir.\nA ação praticada pelo Sd Rcr TOLENTINO no dia 29 de setembro de 2025 configura-se como transgressão disciplinar prevista \nno: Nr 42 do Anexo I (Freqüentar lugares incompatíveis com o decoro da sociedade ou da classe) .\n\nAssim, considero que, por não ter apresentado razões de defesa plausíveis que pudessem configurar causa de justificativa prevista no Art. 18 do RDE, fica repreendido por 2 (Art. 18), permanecendo no comportamento \u0027Bom\u0027.\n\nPresenciou a oitiva do militar arrolado, em 28 de novembro de 2025, o (Testemunha se houver).\n\nDê-se ciência da presente decisão ao militar arrolado, na forma do inciso VIII do § 2º do art. 35 do RDE.\nPublique-se e arquive-se.\n\nCuritiba-PR, 28 de novembro de 2025\n\n\n",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 2,
+      "punicao": "repreendido",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 407,
+        "idtMilitar": "0514852474",
+        "nomeGuerra": "BRITO",
+        "nomeCompleto": "ENOQUE LUCAS DA SILVA BRITO",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 279,
+      "nupCompleto": "65378.011563/2025-57",
+      "dataProcesso": "2025-09-29",
+      "referencia": "Diex Simplificado 4180-Cmt Cia Ap/B Adm Ap",
+      "relatoFato": "Por não ter comparecido ao Serviço de Guarda SU no dia 20 de setembro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 424,
+        "idtMilitar": "0514857879",
+        "nomeGuerra": "DUARTE",
+        "nomeCompleto": "LUCAS COSTA DUARTE",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 280,
+      "nupCompleto": "65378.011565/2025-46",
+      "dataProcesso": "2025-09-29",
+      "referencia": "DIEx Simplificado 4338-Cmt Cia Ap/B Adm Ap",
+      "relatoFato": "Por ter sido encontrado com aparelho celular durante o Serviço de Guarda SU no dia 26 de setembro de 2025.",
+      "decisaoPunicao": "Não justifica. ( Nr 46 do Anexo I (Disseminar boatos no interior de OM ou concorrer para tal)  com atenunte no Inciso I (Bom comportamento), do artigo 19 e agravantes nas alíneas  c) com premeditação no Inciso VI (Ter praticado a transgressão), do artigo 20, tudo do Regulamento Disciplinar do Exército).",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 429,
+        "idtMilitar": "0514849371",
+        "nomeGuerra": "NOGAROTTO",
+        "nomeCompleto": "GABRIEL ALEXANDRE HYGINO NOGAROTTO",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 282,
+      "nupCompleto": "65378.011567/2025-35",
+      "dataProcesso": "2025-09-29",
+      "referencia": "DIEx 5078-02 - SCmt/B Adm Ap",
+      "relatoFato": "Por não ter comparecido ao serviço do dia 28 de setembro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 407,
+        "idtMilitar": "0514852474",
+        "nomeGuerra": "BRITO",
+        "nomeCompleto": "ENOQUE LUCAS DA SILVA BRITO",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 283,
+      "nupCompleto": "65378.011569/2025-24",
+      "dataProcesso": "2025-09-29",
+      "referencia": "DIEx 5064-02 - SCmt/B Adm Ap",
+      "relatoFato": "Por ter faltado a parada diária do dia 27 de setembro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 275,
+        "idtMilitar": "0514837673",
+        "nomeGuerra": "IZAEL",
+        "nomeCompleto": "IZAEL CANDIDO DE OLIVEIRA",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 284,
+      "nupCompleto": "65378.011571/2025-01",
+      "dataProcesso": "2025-09-29",
+      "referencia": "5060-02 - SCmt/B Adm Ap",
+      "relatoFato": "Por ter sido anotado pelo Oficial de Dia durante a parada diária do dia 26 de setembro de 2025, por estar com o cartão de cabelo há mais de 10 dias sem assinatura.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 386,
+        "idtMilitar": "0514857473",
+        "nomeGuerra": "TOLENTINO",
+        "nomeCompleto": "LUCAS SANTANA TOLENTINO",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 285,
+      "nupCompleto": "65378.011572/2025-48",
+      "dataProcesso": "2025-09-29",
+      "referencia": "DIEx4946-02 - SCmt/B Adm Ap",
+      "relatoFato": "Por ter faltado a parada diária do dia 21 de setembro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 205,
+        "idtMilitar": "0514879873",
+        "nomeGuerra": "SCHNEIDER",
+        "nomeCompleto": "CARLOS DANIEL SCHNEIDER LEAL",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 286,
+      "nupCompleto": "65378.011573/2025-92",
+      "dataProcesso": "2025-09-29",
+      "referencia": "DIEx 4946-02 - SCmt/B Adm Ap",
+      "relatoFato": "Por ter faltado a parada diária do dia 21 de setembro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 407,
+        "idtMilitar": "0514852474",
+        "nomeGuerra": "BRITO",
+        "nomeCompleto": "ENOQUE LUCAS DA SILVA BRITO",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 287,
+      "nupCompleto": "65378.011574/2025-37",
+      "dataProcesso": "2025-09-29",
+      "referencia": "DIEx 4946-02 - SCmt/B Adm Ap",
+      "relatoFato": "Por ter faltado a parada diária do dia 21 de setembro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 232,
+        "idtMilitar": "0515059673",
+        "nomeGuerra": "AGUIAR",
+        "nomeCompleto": "RUBENS DE AGUIAR NETO",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 288,
+      "nupCompleto": "65378.011575/2025-81",
+      "dataProcesso": "2025-09-29",
+      "referencia": "DIEx 4946-02 - SCmt/B Adm Ap",
+      "relatoFato": "Por ter faltado a parada diária do dia 21 de setembro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 335,
+        "idtMilitar": "0515368678",
+        "nomeGuerra": "HENRIQUE GOMES",
+        "nomeCompleto": "HENRIQUE GABRIEL GOMES",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 289,
+      "nupCompleto": "65378.011576/2025-26",
+      "dataProcesso": "2025-10-06",
+      "referencia": "Diex Simplificado 4490-Cmt Cia Ap/B Adm Ap",
+      "relatoFato": "Por ter faltado ao serviço do dia 5 de outubro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 407,
+        "idtMilitar": "0514852474",
+        "nomeGuerra": "BRITO",
+        "nomeCompleto": "ENOQUE LUCAS DA SILVA BRITO",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 290,
+      "nupCompleto": "65378.011577/2025-71",
+      "dataProcesso": "2025-10-06",
+      "referencia": "DIEx 5186-02 - SCmt/B Adm Ap",
+      "relatoFato": "Por ter faltado a parada diária no dia 1º de outubro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 406,
+        "idtMilitar": "0514880673",
+        "nomeGuerra": "GODOY",
+        "nomeCompleto": "BRYAN GODOY DOS SANTOS",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 291,
+      "nupCompleto": "65378.011578/2025-15",
+      "dataProcesso": "2025-10-06",
+      "referencia": "DIEx 5238-02 - SCmt/B Adm Ap",
+      "relatoFato": "Por ter faltado serviço no dia 4 de outubro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 325,
+        "idtMilitar": "0514838770",
+        "nomeGuerra": "GUSTAVO",
+        "nomeCompleto": "GUSTAVO KUSS",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 292,
+      "nupCompleto": "65378.011579/2025-60",
+      "dataProcesso": "2025-10-06",
+      "referencia": "DIEx 5238-02 - SCmt/B Adm Ap",
+      "relatoFato": "Por ter faltado serviço no dia 4 de outubro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 5,
+        "idtMilitar": "0513186676",
+        "nomeGuerra": "LUIS GUSTAVO",
+        "nomeCompleto": "LUIS GUSTAVO PAGNI CORDEIRO",
+        "postoGraduacao": "Cb"
+      },
+      "nup": 293,
+      "nupCompleto": "65378.011580/2025-94",
+      "dataProcesso": "2025-10-08",
+      "referencia": "DIEx nº 5237-02 - SCmt/B Adm Ap",
+      "relatoFato": "Por ter sido encontrado durante a revista pessoal com o cabelo fora do padrão e por ter agido de forma desrespeitosa durante a orientação.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 251,
+        "idtMilitar": "0514880871",
+        "nomeGuerra": "BRUNO",
+        "nomeCompleto": "BRUNO DOS SANTOS RODRIGUES",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 294,
+      "nupCompleto": "65378.011581/2025-39",
+      "dataProcesso": "2025-10-06",
+      "referencia": "DIEx nº 5237-02 - SCmt/B Adm Ap",
+      "relatoFato": "Por ter agido de forma desrespeitosa durante a revista de entrada no quartel no dia 4 de outubro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 278,
+        "idtMilitar": "0514836774",
+        "nomeGuerra": "JOHN",
+        "nomeCompleto": "JOHN VICTOR VIANA",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 295,
+      "nupCompleto": "65378.011583/2025-28",
+      "dataProcesso": "2025-10-06",
+      "referencia": "5214-02 - SCmt/B Adm Ap",
+      "relatoFato": "Por ter faltado a parada diária do dia 2 de outubro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 188,
+        "idtMilitar": "0513602375",
+        "nomeGuerra": "T SANTOS",
+        "nomeCompleto": "WELLISON THIAGO SANTOS DOS SANTOS",
+        "postoGraduacao": "Sd"
+      },
+      "nup": 296,
+      "nupCompleto": "65378.011584/2025-72",
+      "dataProcesso": "2025-10-06",
+      "referencia": "DIEx 5155-02 - SCmt/B Adm Ap",
+      "relatoFato": "Por ter sido encontrado pelo Adjunto ao Oficial de Dia dormindo desuniformizado durante o serviço de Cabo de Dia no dia 30 de outubro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 357,
+        "idtMilitar": "0515060176",
+        "nomeGuerra": "PEDRO GUSTAVO",
+        "nomeCompleto": "PEDRO GUSTAVO RAIMUNDO BARBOSA",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 297,
+      "nupCompleto": "65378.011585/2025-17",
+      "dataProcesso": "2025-10-06",
+      "referencia": "DIEx 5107-02 - SCmt/B Adm Ap",
+      "relatoFato": "Por ter sido encontrado durante a parada diária com o cabelo fora do padrão no dia 29 de setembro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 147,
+        "idtMilitar": "0513600478",
+        "nomeGuerra": "RYAN",
+        "nomeCompleto": "RYAN DE SOUZA MELO DE ARAUJO",
+        "postoGraduacao": "Sd"
+      },
+      "nup": 298,
+      "nupCompleto": "65378.011586/2025-61",
+      "dataProcesso": "2025-10-06",
+      "referencia": "DIEx nº 5029-Ch Esc Ap Pes 5ªRM/DE/B Adm Ap",
+      "relatoFato": "Por ter trabalhado mal intencionalmente durante a missão de faxina no dia 23 de setembro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 183,
+        "idtMilitar": "0514536978",
+        "nomeGuerra": "LINHARES",
+        "nomeCompleto": "ENZO RHUAN LINHARES COSTA",
+        "postoGraduacao": "Sd"
+      },
+      "nup": 299,
+      "nupCompleto": "65378.011587/2025-14",
+      "dataProcesso": "2025-10-06",
+      "referencia": "DIEx nº 4976-Ch Esc Ap Pes 5ªRM/DE/B Adm Ap",
+      "relatoFato": "Por não ter comparecido para a missão que foi designada, que constava seu nome no BI nº 148 de 14 AGO 25.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 148,
+        "idtMilitar": "0513603571",
+        "nomeGuerra": "WESCHENFELDER",
+        "nomeCompleto": "MAXSUEL WESCHENFELDER",
+        "postoGraduacao": "Sd"
+      },
+      "nup": 300,
+      "nupCompleto": "65378.011588/2025-51",
+      "dataProcesso": "2025-10-06",
+      "referencia": "DIEx Simplificado Nº 4188-Ch Div Pes/B Adm Ap",
+      "relatoFato": "Por ter ameaçado agredir fisicamente o Sd EP TELMAN.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 148,
+        "idtMilitar": "0513603571",
+        "nomeGuerra": "WESCHENFELDER",
+        "nomeCompleto": "MAXSUEL WESCHENFELDER",
+        "postoGraduacao": "Sd"
+      },
+      "nup": 301,
+      "nupCompleto": "65378.011589/2025-03",
+      "dataProcesso": "2025-10-06",
+      "referencia": "DIEx Simplificado Nº 4188-Ch Div Pes/B Adm Ap",
+      "relatoFato": "Por ter usado palavras de baixo calão para ofender o Sd EV LOGAN.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 127,
+        "idtMilitar": "0512057472",
+        "nomeGuerra": "GARCIA",
+        "nomeCompleto": "VINICIUS GARCIA DA SILVA",
+        "postoGraduacao": "Sd"
+      },
+      "nup": 303,
+      "nupCompleto": "65378.011591/2025-74",
+      "dataProcesso": "2025-10-06",
+      "referencia": "DIEx nº 4944-Aprov/B Adm Ap",
+      "relatoFato": "Por ter chegado atrasado para o serviço de cozinheiro no dia 21 de setembro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 4,
+        "idtMilitar": "0512059973",
+        "nomeGuerra": "LUIZ FELIPE",
+        "nomeCompleto": "LUIZ FELIPE CORREIA",
+        "postoGraduacao": "Cb"
+      },
+      "nup": 304,
+      "nupCompleto": "65378.011592/2025-19",
+      "dataProcesso": "2025-10-06",
+      "referencia": "DIEx nº 4944-Aprov/B Adm Ap",
+      "relatoFato": "Por ter chegado atrasado para o serviço de sombra de Graduado de Dia.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 356,
+        "idtMilitar": "0515058477",
+        "nomeGuerra": "DANELLE",
+        "nomeCompleto": "VINICIUS GODOI DANELLE",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 305,
+      "nupCompleto": "65378.011593/2025-63",
+      "dataProcesso": "2025-10-08",
+      "referencia": "DiEx simplificado 4509-Cmt Cia Ap/B Adm Ap",
+      "relatoFato": "Por ter chegado atrasado para o serviço do dia 6 outubro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "10865",
+      "bi": "260",
+      "quantidadeDias": 0,
+      "punicao": "Advertencia",
+      "concluido": true,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 275,
+        "idtMilitar": "0514837673",
+        "nomeGuerra": "IZAEL",
+        "nomeCompleto": "IZAEL CANDIDO DE OLIVEIRA",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 306,
+      "nupCompleto": "65378.011594/2025-16",
+      "dataProcesso": "2025-10-08",
+      "referencia": "DIEx simplificado 4509-Cmt Cia Ap/B Adm Ap",
+      "relatoFato": "Por ter chegado atrasado no serviço de 6 de outubro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "1059298",
+      "bi": "261",
+      "quantidadeDias": 2,
+      "punicao": "Repreensão",
+      "concluido": true,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 110,
+        "idtMilitar": "0513601476",
+        "nomeGuerra": "OLIVEIRA",
+        "nomeCompleto": "PATRICK WAGNER OLIVEIRA DOS SANTOS",
+        "postoGraduacao": "Sd"
+      },
+      "nup": 307,
+      "nupCompleto": "65378.011595/2025-52",
+      "dataProcesso": "2025-10-08",
+      "referencia": "DIEx nº 18755-CSPFA/SSMR/Esc Pes",
+      "relatoFato": "Por ter parado sua moto em lugar irregular.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 429,
+        "idtMilitar": "0514849371",
+        "nomeGuerra": "NOGAROTTO",
+        "nomeCompleto": "GABRIEL ALEXANDRE HYGINO NOGAROTTO",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 308,
+      "nupCompleto": "65378.011596/2025-05",
+      "dataProcesso": "2025-10-08",
+      "referencia": "DIEx Simplificado Nº 4556-CIA AP/Cmt Cia Ap/B Adm Ap",
+      "relatoFato": "Por ter faltado com zelo com sua documentação. ",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 51,
+        "idtMilitar": "0513597278",
+        "nomeGuerra": "WELLINGTON",
+        "nomeCompleto": "WELLINGTON VINICIUS PEREIRA DOS SANTOS",
+        "postoGraduacao": "Cb"
+      },
+      "nup": 309,
+      "nupCompleto": "65378.011597/2025-41",
+      "dataProcesso": "2025-10-08",
+      "referencia": "DIEx Simplificado Nº 4494-Aprov/B Adm Ap",
+      "relatoFato": "Por não ter preparado bem e ter servido as refeições frias para a guarnição de serviço do dia 4 de outubro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 195,
+        "idtMilitar": "051.371.497-2",
+        "nomeGuerra": "A SIQUEIRA",
+        "nomeCompleto": "ALEXANDRE VENANCIO SIQUEIRA",
+        "postoGraduacao": "Sd EP"
+      },
+      "nup": 310,
+      "nupCompleto": "65378.011598/2025-96",
+      "dataProcesso": "2025-10-08",
+      "referencia": "DIEx Simplificado Nº 4494-Aprov/B Adm Ap",
+      "relatoFato": "Por não ter preparado bem e ter servido as refeições frias para a guarnição de serviço do dia 4 de outubro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 355,
+        "idtMilitar": "0514849975",
+        "nomeGuerra": "VELOZO",
+        "nomeCompleto": "FELIPE VELOZO SANTOS DE PROENCA",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 311,
+      "nupCompleto": "65378.012139/2025-20",
+      "dataProcesso": "2025-10-08",
+      "referencia": "DIEx Simplificado Nº 4494-Aprov/B Adm Ap",
+      "relatoFato": "Por não ter preparado bem e ter servido as refeições frias para a guarnição de serviço do dia 4 de outubro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 240,
+        "idtMilitar": "0515366375",
+        "nomeGuerra": "VICENTE",
+        "nomeCompleto": "VITOR VICENTE LIMA",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 312,
+      "nupCompleto": "65378.012141/2025-07",
+      "dataProcesso": "2025-10-28",
+      "referencia": "DIEx Simplificado Nº 4494-Aprov/B Adm Ap",
+      "relatoFato": "Por não ter preparado bem e ter servido as refeições frias para a guarnição de serviço do dia 4 de outubro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 174,
+        "idtMilitar": "0514278670",
+        "nomeGuerra": "HENRIQUE",
+        "nomeCompleto": "HENRIQUE NASCIMENTO MOURA SILVA",
+        "postoGraduacao": "Sd"
+      },
+      "nup": 313,
+      "nupCompleto": "65378.012142/2025-43",
+      "dataProcesso": "2025-10-08",
+      "referencia": "DIEx Simplificado Nº 4496-Aprov/B Adm Ap",
+      "relatoFato": "Por ter deixado de cumprir com suas atribuições como cozinheiro de dia e por ter abandonado o serviço no 3 de outubro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 4,
+        "idtMilitar": "0512059973",
+        "nomeGuerra": "LUIZ FELIPE",
+        "nomeCompleto": "LUIZ FELIPE CORREIA",
+        "postoGraduacao": "Cb"
+      },
+      "nup": 314,
+      "nupCompleto": "65378.012143/2025-98",
+      "dataProcesso": "2025-10-08",
+      "referencia": "DIEx Simplificado Nº 4495-Aprov/B Adm Ap",
+      "relatoFato": "Por ter sido encontrado com o cabelo fora do padrão no dia 6 de outubro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    },
+    {
+      "militar": {
+        "id": 335,
+        "idtMilitar": "0515368678",
+        "nomeGuerra": "HENRIQUE GOMES",
+        "nomeCompleto": "HENRIQUE GABRIEL GOMES",
+        "postoGraduacao": "Sd Rcr"
+      },
+      "nup": 315,
+      "nupCompleto": "65378.012196/2025-17",
+      "dataProcesso": "2025-10-08",
+      "referencia": "A pedido do Cmt Cia Ap",
+      "relatoFato": "Por ter sido encontrado dentro do alojamento quando deveria estar na formatura do dia 6 de outubro de 2025.",
+      "decisaoPunicao": "",
+      "notaBi": "",
+      "bi": "",
+      "quantidadeDias": 0,
+      "punicao": "",
+      "concluido": false,
+      "defesaEntregue": false,
+      "decisaoFeita": false
+    }
+  ],
+  "nups": {
+    "256": "65378.008966/2025-19",
+    "257": "65378.008967/2025-63",
+    "258": "65378.008968/2025-16",
+    "259": "65378.008969/2025-52",
+    "260": "65378.008970/2025-87",
+    "261": "65378.008971/2025-21",
+    "262": "65378.008972/2025-76",
+    "263": "65378.008973/2025-11",
+    "264": "65378.008974/2025-65",
+    "265": "65378.008975/2025-18",
+    "266": "65378.008976/2025-54",
+    "267": "65378.008977/2025-07",
+    "268": "65378.008978/2025-43",
+    "269": "65378.008979/2025-98",
+    "270": "65378.008980/2025-12",
+    "271": "65378.008981/2025-67",
+    "272": "65378.008982/2025-10",
+    "273": "65378.008983/2025-56",
+    "274": "65378.008984/2025-09",
+    "275": "65378.008985/2025-45",
+    "276": "65378.008987/2025-34",
+    "277": "65378.008988/2025-89",
+    "278": "65378.008989/2025-23",
+    "279": "65378.011563/2025-57",
+    "280": "65378.011565/2025-46",
+    "281": "65378.011566/2025-91",
+    "282": "65378.011567/2025-35",
+    "283": "65378.011569/2025-24",
+    "284": "65378.011571/2025-01",
+    "285": "65378.011572/2025-48",
+    "286": "65378.011573/2025-92",
+    "287": "65378.011574/2025-37",
+    "288": "65378.011575/2025-81",
+    "289": "65378.011576/2025-26",
+    "290": "65378.011577/2025-71",
+    "291": "65378.011578/2025-15",
+    "292": "65378.011579/2025-60",
+    "293": "65378.011580/2025-94",
+    "294": "65378.011581/2025-39",
+    "295": "65378.011583/2025-28",
+    "296": "65378.011584/2025-72",
+    "297": "65378.011585/2025-17",
+    "298": "65378.011586/2025-61",
+    "299": "65378.011587/2025-14",
+    "300": "65378.011588/2025-51",
+    "301": "65378.011589/2025-03",
+    "302": "65378.011590/2025-20",
+    "303": "65378.011591/2025-74",
+    "304": "65378.011592/2025-19",
+    "305": "65378.011593/2025-63",
+    "306": "65378.011594/2025-16",
+    "307": "65378.011595/2025-52",
+    "308": "65378.011596/2025-05",
+    "309": "65378.011597/2025-41",
+    "310": "65378.011598/2025-96",
+    "311": "65378.012139/2025-20",
+    "312": "65378.012141/2025-07",
+    "313": "65378.012142/2025-43",
+    "314": "65378.012143/2025-98",
+    "164": "65378.007164/2025-91",
+    "165": "65378.007165/2025-36",
+    "166": "65378.007166/2025-81",
+    "167": "65378.007167/2025-25",
+    "168": "65378.007168/2025-70",
+    "169": "65378.007169/2025-14",
+    "170": "65378.007170/2025-49",
+    "171": "65378.007171/2025-93",
+    "172": "65378.007172/2025-38",
+    "173": "65378.007173/2025-82",
+    "174": "65378.007174/2025-27",
+    "175": "65378.007175/2025-71",
+    "176": "65378.007176/2025-16",
+    "177": "65378.007769/2025-82",
+    "178": "65378.007770/2025-15",
+    "179": "65378.007771/2025-51",
+    "180": "65378.007772/2025-04",
+    "181": "65378.007773/2025-41",
+    "182": "65378.007774/2025-95",
+    "183": "65378.007775/2025-30",
+    "184": "65378.007776/2025-84",
+    "185": "65378.007777/2025-29",
+    "186": "65378.007778/2025-73",
+    "187": "65378.007779/2025-18",
+    "188": "65378.007780/2025-42",
+    "189": "65378.007781/2025-97",
+    "190": "65378.007782/2025-31",
+    "191": "65378.007783/2025-86",
+    "192": "65378.007784/2025-21",
+    "193": "65378.007785/2025-75",
+    "194": "65378.007786/2025-10",
+    "195": "65378.007787/2025-64",
+    "196": "65378.007789/2025-53",
+    "197": "65378.007790/2025-88",
+    "198": "65378.007791/2025-22",
+    "200": "65378.007792/2025-77",
+    "201": "65378.007793/2025-11",
+    "202": "65378.007794/2025-66",
+    "203": "65378.007795/2025-19",
+    "204": "65378.007796/2025-55",
+    "205": "65378.007797/2025-08",
+    "206": "65378.007798/2025-44",
+    "207": "65378.007799/2025-99",
+    "208": "65378.007800/2025-85",
+    "209": "65378.007801/2025-20",
+    "210": "65378.007802/2025-74",
+    "211": "65378.007803/2025-19",
+    "212": "65378.007804/2025-63",
+    "213": "65378.007805/2025-16",
+    "214": "65378.007806/2025-52",
+    "215": "65378.007807/2025-05",
+    "216": "65378.007808/2025-41",
+    "217": "65378.007809/2025-96",
+    "218": "65378.007810/2025-11",
+    "219": "65378.007811/2025-65",
+    "220": "65378.007812/2025-18",
+    "221": "65378.007813/2025-54",
+    "222": "65378.007814/2025-07",
+    "223": "65378.007815/2025-43",
+    "224": "65378.007816/2025-98",
+    "225": "65378.007817/2025-32",
+    "226": "65378.008925/2025-22",
+    "227": "65378.008926/2025-77",
+    "228": "65378.008933/2025-79",
+    "229": "65378.008934/2025-13",
+    "230": "65378.008935/2025-68",
+    "231": "65378.008936/2025-11",
+    "232": "65378.008937/2025-57",
+    "233": "65378.008938/2025-00",
+    "234": "65378.008939/2025-46",
+    "235": "65378.008940/2025-71",
+    "236": "65378.008941/2025-15",
+    "237": "65378.008942/2025-60",
+    "238": "65378.008943/2025-12",
+    "239": "65378.008944/2025-59",
+    "240": "65378.008945/2025-01",
+    "241": "65378.008946/2025-48",
+    "242": "65378.008947/2025-92",
+    "243": "65378.008948/2025-37",
+    "244": "65378.008949/2025-81",
+    "245": "65378.008950/2025-14",
+    "246": "65378.008951/2025-51",
+    "247": "65378.008953/2025-40",
+    "248": "65378.008954/2025-94",
+    "249": "65378.008955/2025-39",
+    "250": "65378.008956/2025-83",
+    "251": "65378.008957/2025-28",
+    "252": "65378.008962/2025-31",
+    "253": "65378.008963/2025-85",
+    "254": "65378.008964/2025-20",
+    "255": "65378.008965/2025-74"
+  },
+  "feriados": {
+    "2025-12-25": "Natal",
+    "2026-12-25": "Natal",
+    "2025-04-21": "Tiradentes",
+    "2026-04-21": "Tiradentes",
+    "2025-04-20": "Páscoa",
+    "2025-11-20": "Dia da consciência negra",
+    "2026-11-20": "Dia da consciência negra",
+    "2025-06-19": "Corpus Christi",
+    "2025-04-18": "Sexta-feira Santa",
+    "2026-02-17": "Carnaval",
+    "2025-11-15": "Proclamação da República",
+    "2026-11-15": "Proclamação da República",
+    "2025-10-12": "Nossa Senhora Aparecida",
+    "2026-10-12": "Nossa Senhora Aparecida",
+    "2025-09-07": "Independência do Brasil",
+    "2026-09-07": "Independência do Brasil",
+    "2026-04-05": "Páscoa",
+    "2025-03-04": "Carnaval",
+    "2026-06-04": "Corpus Christi",
+    "2026-04-03": "Sexta-feira Santa",
+    "2025-11-02": "Finados",
+    "2026-11-02": "Finados",
+    "2025-01-01": "Confraternização mundial",
+    "2025-05-01": "Dia do trabalho",
+    "2026-01-01": "Confraternização mundial",
+    "2026-05-01": "Dia do trabalho"
+  },
+  "users": [
+    {
+      "username": "master",
+      "hashedPassword": "$2a$10$BmJkpV0vzddUOkEkJMklb.I3PKu0ktVsShtpQDAEWznhQUPx70uB2",
+      "role": "MASTER"
+    },
+    {
+      "username": "participante",
+      "hashedPassword": "$2a$10$JlXVd3VYPwlCf2Hr6T9TcOp/N/Z1LIJp8Dr.hOKkiUjfYfXWxxEE2",
+      "role": "PARTICIPANTE"
+    },
+    {
+      "username": "autoridade",
+      "hashedPassword": "$2a$10$h0U9YcS2f5rV2LsZWdmSA.AgP4oHq0NzjJXkDLob9nGAZoz19wPam",
+      "role": "AUTORIDADE"
+    },
+    {
+      "username": "inteligencia",
+      "hashedPassword": "$2a$10$MaZa6cUeIWMfz13u0rtF1.s1aa1.dFJwyAoJbS3eCWW0OXmK2PGJm",
+      "role": "INTELIGENCIA"
+    }
+  ]
+}

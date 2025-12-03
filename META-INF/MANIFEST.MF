@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+br.com.tavora.sigfatd.controller.Main-Class: br.com.tavora.sigfatd.controller.Main
+
